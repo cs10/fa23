@@ -15,7 +15,7 @@ UC Berkeley, Fall 2023
 
 **Instructor:** <a href="https://people.eecs.berkeley.edu/~ddgarcia/">Dan Garcia</a><br/>
 **Instructor Office Hours:** Friday 1-2PM in Soda-722<br/>
-**Lecture:** Monday, Wednesday 1-2PM in Evans-10
+**Lecture:** Monday, Wednesday 1-2PM in Evans-10<br/>
 **Project Party/OH Queue:** <a href="https://oh.cs10.org/"> oh.cs10.org</a>
 {: .fs-4 }
 
