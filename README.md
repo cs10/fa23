@@ -1,4 +1,4 @@
-# CS10 Summer 2023 [https://cs10.org/fa23]()
+# CS10 Fall 2023 [https://cs10.org/fa23]()
 ---
 
 ### Just The Class Info
