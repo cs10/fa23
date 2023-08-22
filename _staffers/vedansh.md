@@ -2,7 +2,6 @@
 name: Vedansh Malhotra
 role: Head TA
 email: vedansh@
-office hours: TuTh 5-6PM Soda-511
 website: https://www.linkedin.com/in/vedanshmalhotra/
 photo: vedansh.png
 ---

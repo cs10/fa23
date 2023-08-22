@@ -26,17 +26,7 @@ nav_order: 10
   {% endfor %}
 </div>
 
-
-## Admin Teaching Assistant (Admin TA)
-
-{% assign AdminTA = site.staffers | where: 'role', 'Admin TA' %}
-<div class="role">
-  {% for staffer in AdminTA %}
-  {{ staffer }}
-  {% endfor %}
-</div>
-
-## Lab Teaching Assistants (Lab TA)
+## Teaching Assistants (TA)
 
 {% assign LabTA = site.staffers | where: 'role', 'Lab TA' %}
 <div class="role">
@@ -45,7 +35,7 @@ nav_order: 10
   {% endfor %}
 </div>
 
-## Office Hour Teaching Assistants (OH TA)
+## Tutors
 
 {% assign OHTA = site.staffers | where: 'role', 'OH TA' %}
 <div class="role">

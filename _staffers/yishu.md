@@ -1,6 +1,6 @@
 ---
 name: Yishu Chao
-role: Admin TA
+role: TA
 email: yishuchao@
 website: https://www.linkedin.com/in/yishu-chao-5044311b6/
 photo: yishu.jpg
