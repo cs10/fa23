@@ -1,6 +1,6 @@
 ---
 name: Victoria Phelps (she/they)
-role: TA
+role: Lab TA
 email: jedi_force@
 website: linkedin.com/in/victoria-phelps-a57a9476/
 photo: victoria.png
