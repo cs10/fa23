@@ -34,7 +34,7 @@
       <th>Wed 8/23 </th> <!-- Date -->
       <td>1. Welcome to CS10 & Abstraction <a href="https://drive.google.com/file/d/1GQWC_Jj8RS0tSGT5xhliHrHbLNzE7FYU/view?usp=sharing">(slides)</a><a href = "https://www.youtube.com/c/IesgDepartmental">(live stream)</a> <a href = "https://www.youtube.com/watch?v=MVZEKaccEUE&list=PLnocShPlK-FugD3qpxoBnu6RkDKyqsyvZ&index=1">(recording)</a> </td> <!-- Lecture -->
       <td></td> <!-- Readings -->
-      <td><a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/intro_pair/1-introduction.topic&course=&novideo&noreading&noassignment">1. Welcome to Snap!</a><br/>(No checkoff)</td> <!-- Lab -->
+      <td></td> <!-- Lab -->
       <td></td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
