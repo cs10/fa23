@@ -5,9 +5,7 @@ email: vedansh@
 website: https://www.linkedin.com/in/vedanshmalhotra/
 photo: vedansh.png
 ---
-**Office Hours: Tu,Th 5-6PM in Soda-511**\
-\
-Hey there! I'm a rising senior (so don't call me "Professor" :p) studying Computer Science, Cognitive Science, and Data Science. This is my seventh term on course staff at Cal (I've helped teach courses in EECS and Cognitive Science), and my fifth term teaching and first term as Instructor for CS-10.\
+Hey there! I'm a rising senior studying Computer Science, Cognitive Science, and Data Science. This is my seventh term on course staff at Cal (I've helped teach courses in EECS and Cognitive Science), and my fifth term teaching and first term as Instructor for CS-10.\
 \
 This Summer, I'll also be developing curriculum for Berkeley's (brand-new) [College of Computing, Data Science, and Society](https://data.berkeley.edu/), partake in an exciting [Natural Language Processing](https://www.ibm.com/topics/natural-language-processing) / [Machine Learning](https://www.ibm.com/topics/machine-learning) research project, and will try to teach a five year old [Computational Complexity Theory](https://www.seh.ox.ac.uk/blog/an-introduction-to-research-in-computational-complexity-theory). If any of that sounds interesting, I'm happy to chat about it in Office Hours!\
 \
