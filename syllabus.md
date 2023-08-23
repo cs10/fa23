@@ -28,82 +28,61 @@ All times below are in PST. Please add "berkeley.edu" at the end of all emails.
 
 
 Welcome to CS10: The Beauty and Joy of Computing! <br /><br />
-We’re really excited to have you on board with us this Summer for a gentle, but thorough introduction to Computer Science. Our course will start out in the block-based language Snap<em>!</em>, but will transition into Python once you've learned some fundamentals of programming. By the end of the course, we hope you'll walk away with a deeper understanding of the ideas that have come to define computer science, the ability to build your own programs, and the confidence to apply these skills in whichever field you choose to pursue.
+We’re really excited to have you on board with us this Fall for a gentle, but thorough introduction to Computer Science. Our course will start out in the block-based language Snap<em>!</em>, but will transition into Python once you've learned some fundamentals of programming. By the end of the course, we hope you'll walk away with a deeper understanding of the ideas that have come to define computer science, the ability to build your own programs, and the confidence to apply these skills in whichever field you choose to pursue.
 
 
 ## Platforms
 
 
-This Fall, CS10 is required to run fully in-person. Consequently, remote (or hybrid) students can not be supported.
+This Fall, CS10 will run fully in-person. Consequently, remote (or hybrid) students can not be supported.
 
 
 * **Course Website**: The day-to-day happenings of the course (and links to all the platforms below) can be found at cs10.org. Consult the [daily schedule](https://cs10.org/fa23/schedule/) to find the times/locations for all synchronous course engagements.
 * **Edstem**: This will be our main Q&A platform, where you can ask (and answer) questions, see announcements, and read Weekly Blasts, which are required readings in CS10. Click the `Ed Discussion` tab on the left to navigate to Edstem.
 * **Gradescope**: This is where you will submit Projects 1-4, and the Final Project. Click the `Gradescope` tab on the left to open Edstem.
-* **Youtube**: Lecture recordings can be found in this [Youtube playlist](https://youtube.com/playlist?list=PLnocShPlK-FvoUBvy1Mr-LuRAyqsDTX6k). You'll need to login with your Berkeley email to access them.
-* **PrairieLearn**: Project-5, Pyturis, will be submitted via PrairieLearn. A setup guide can be found [here](https://docs.google.com/document/d/1lbaAihPMPA3h9FGSXOfbQPwM1cqadfWimQbmQjYjcRQ/edit?usp=sharing).
+* **BCourses**: Lecture recordings can be found on Bcourses under `Media Gallery` Typically, they are uploaded by midnight the day of lecture.
+* **PrairieLearn**: Project-5, Pyturis, will be submitted via PrairieLearn. A setup guide will soon be added [here]().
 
 
 ## Primary Course Components
 
 
-* **Lecture**: Lectures will be live and in-person in HP-Auditorium in Soda Hall (Soda-306) Mon-Th, 1400-1500hrs (2-3PM). They will be recorded, and recordings will be posted on the website after class. Lectures aim to introduce concepts and provide a "big-picture view" of material from a theoretical standpoint. <b>Attendance (in-person) is required as part of your grade and will be tracked; you will fill out a Google Form with a password to receive credit.</b> For every lecture, there will be a corresponding quiz due on Gradescope the following day at 2359hrs. <br /><br />Your lowest 3 lecture-quiz scores will be automatically dropped. Additionally, up to 3 missing lecture attendance forms will be excused (so you can miss up to 3 lectures without penalty, and you don’t need to inform us when you miss class.) These drops are not intended to be “free-passes” to skip lectures: please reserve them for unexpected emergencies / sickness / … since missing out on content will only disrupt your learning. If there are extenuating circumstances which cause you to miss more than 3 lectures (like prolonged sickness, family emergencies, etc.) then you should email cs10@ and we’ll discuss other options.
+* **Lecture**: Lectures will be live and in-person in Evans-10 Mondays and Wednesdays, 1300-1400hrs. They will be recorded, and recordings will be posted on BCourses (see `platforms` section.) Lectures aim to introduce concepts and provide a "big-picture view" of material from a theoretical standpoint. <b>Attendance (in-person) is required as part of your grade and will be tracked: for every lecture, there will be a corresponding quiz on Gradescope due the day of the following lecture at 2359hrs. On this quiz, we will ask questions about lecture content, and also ask you for a passphrase that was announced in lecture. No extensions are provided on these quizzes. <br /><br />Your lowest 3 lecture-quiz scores will be automatically dropped — so you can miss up to 3 lectures (or skip 3 quizzes) without penalty, and you don’t need to inform us when you miss class. These drops are not intended to be “free-passes” to skip lectures: please reserve them for unexpected emergencies / sickness / … since missing out on content will only disrupt your learning. If there are extenuating circumstances which cause you to miss more than 3 lectures (like prolonged sickness, family emergencies, etc.) then you should email cs10@ and we’ll discuss other options.
 
-* **Lab Sections**: Labs will be held synchronously and are the primary place you will learn to program. Note that you are **strongly recommended** to complete all labs with a partner, and that partner-matching threads have been added to our Edstem Forum. On the first day of lab, Teaching Assistants (TAs) will help you find a partner in your assigned lab section.<br /><br />Lab assignments will be submitted to Gradescope. There will be two assignments for each lab: one wherein you'll submit the code you wrote, and one with conceptual checkoff problems. If you get a full score on both Gradescope assignments, you will get credit for that lab. Labs are graded on an all-or-nothing basis, which means if you don't get a full score on either (or both) of the two assignments, then you won't get credit for that lab. In our lab sections (which are held in SDH-200), TAs and Academic Interns (AIs) will be available to help you with the problems.<br /><br /><b>We expect (but don’t require) that all students will attend lab sections.</b> However, some students may prefer to try the labs out first and see if they get a full-score on Gradescope. If you finish a lab by yourself, you don't need to attend in-person, but do note that we will go over the Gradescope problems in section, and that most students will find this helpful for staying-on-top of our fast-paced lab assignments.<br /><br />Lab X will be due the day that Lab X+1 is scheduled, at midnight. That is, each lab is due at midnight on the day that the next lab is released. For example, if Lab-12 is scheduled on Tuesday, and Lab-13 is scheduled on Wednesday, then Lab-12 will be due at midnight on Wednesday.<br /><br />There will be 15 graded labs (There's no checkoff for lab-1), and your lowest 2 lab scores will be dropped.
+* **Lab Sections**: Labs are the primary place you will learn to program. Note that you are **strongly recommended** to complete all labs with a partner, and that partner-matching threads will be added to our Edstem Forum. If you attend synchronously, then on the first day of lab, Teaching Assistants (TAs) will help you find a partner in your assigned lab section.<br /><br />Lab assignments will be submitted to Gradescope. There will be two assignments for each lab: one wherein you'll submit the code you wrote, and one with conceptual checkoff problems. If you get a full score on both Gradescope assignments, you will get credit for that lab. Labs are graded on an all-or-nothing basis, which means if you don't get a full score on either (or both) of the two assignments, then you won't get credit for that lab. In our synchronous lab sections (which are held in Soda 430), TAs and Academic Interns (AIs) will be available to help you with the problems.<br /><br /><br />Lab X will be due the day that Lab X+1 is scheduled, at midnight. That is, each lab is due at midnight on the day that the next lab is released. For example, if Lab-12 is scheduled on Monday, and Lab-13 is scheduled on Wednesday, then Lab-12 will be due at midnight on Wednesday.<br /><br />Your lowest 2 lab scores will be dropped.
 
 
-* **Discussion Sections**: Discussion sections are where you will delve into the content more deeply with worksheets in traditional “pen-and-paper” style. This is where you will develop the theoretical computational skills needed to understand the basics of programming and to prepare for our exams. <b>Attendance (in-person) is required as part of your grade and will be tracked; you will fill out a Google Form with a password to receive credit.</b> <br /><br />You don't have to submit any work for discussions (besides filling out the attendance form). You can miss up-to 2 out of 12 discussion sections without penalty (you don't need to tell us that you're missing class). Please reserve these drops for unexpected emergencies / sickness / ... If there are circumstances which cause you to miss more than 2 discussions (like prolonged sickness, family emergencies, etc.) then you should email your Discussion-TA and they'll discuss other options.<br /><br />From experience, we've observed that students who regularly attend and pay attention in discussions tend to do better on exams.
+* **Discussion Sections**: Discussion sections are where you will delve into the content more deeply with worksheets in traditional “pen-and-paper” style. This is where you will develop the theoretical computational skills needed to understand the basics of programming and to prepare for our exams. <b>Attendance is required as part of your grade and will be tracked. If you attend in-person, you will fill out a Google Form with a password to receive credit. If you attend asynchronously, you will watch the recording, fill out the worksheet, and submit it to Gradescope by midnight the day of the *next* discussion. </b> <br /><br /> You can miss up-to 2 discussion sections without penalty (you don't need to tell us that you're missing class). Please reserve these drops for unexpected emergencies / sickness / ... If there are circumstances which cause you to miss more than 2 discussions (like prolonged sickness, family emergencies, etc.) then you should email your Discussion-TA and they'll discuss other options.<br /><br />From experience, we've observed that students who regularly attend and pay attention in discussions tend to do better on exams.
 
-* **Office Hours (OH)** There will be two kinds of OH, described bellow. The times and locations for all OH are all posted under the 'daily schedule' tab on the course website. You <b>don't</b> need to email / obtain an appointment. You can attend any and all OH that work for you (i.e. you don't just have to attend your TA's OH.)
+* **Office Hours (OH)** There will be two kinds of OH, described bellow. These will start in week-2. The times and locations for all OH will be posted under the 'daily schedule' tab on the course website. You <b>don't</b> need to email / obtain an appointment. You can attend any and all OH that work for you (i.e. you don't just have to attend your TA's OH.)
 
-* **Staff OH**: During staff OH (which will run in-person on campus), you can meet with our TAs / tutors / AIs for help with course material, assignments, or bigger picture questions.
+* **Staff OH**: During staff OH (which will run in-person on campus in SDH-200), you can meet with our Tutors / AIs for help with course material, assignments, or bigger picture questions.
 
-* **Instructor OH**: Vedansh will be hosting Instructor OH (TuTh 5-6PM in Soda-511), which you may attend for more conceptual help (for instance, if you're confused about some topic, or want to go over practice problems) or to discuss more general topics (e.g. college advice or how you're doing in the class.) For help with specific assignments (labs and projects), you should attend Staff-OH.
+* **Instructor OH**: Professor Garcia will be hosting Instructor OH (Fridays 1-2PM in Soda-777), which you may attend for more conceptual help (for instance, if you're confused about some topic, or want to go over practice problems) or to discuss more general topics (e.g. college advice or how you're doing in the class.) For help with specific assignments (labs and projects), you should attend Staff-OH.
 
 
 * **Projects**: These assignments will be one of the best ways for you to apply what you have learned in lecture, lab, and discussion. These will be a bit more time intensive than the other assignments and will require you to be caught up on the components of the course.
 
-- There will be 3 Snap<em>!</em> projects, 1 Python project, and 1 project wherein you can use a language of your choice to build something of your choice. The number of points per project is listed in the Grading Breakdown. Project specs will be released on the website and on Edstem, and you should always read them before starting to work on a project.
+- There will be 3 Snap<em>!</em> projects, 1 Python project, 1 Essay project, and 1 project wherein you can use a language of your choice to build something of your choice. The number of points per project is listed in the Grading Breakdown. Project specs will be released on the website and on Edstem, and you should always read them before starting to work on a project.
 
 ## Projects and Deadlines
 
 
 | Project                                       |  Submission Deadline     |
 | :----:                                        |  :----:                  |
-| Project 1: Wordle™-lite                       | MON 6/26 on Gradescope   |
-| Project 2: Spelling-Bee                       | MON 7/03 on Gradescope   |
-| Project 3: 2048                               | MON 7/17 on Gradescope   |
-| Project 4: Pyturis                            | MON 7/24 on PrairieLearn |
-| Final Project                                 | MON 8/07 on Gradescope   |
+| Project 1: Wordle™-lite                       | WED 9/6 on Gradescope    |
+| Project 2: Spelling-Bee                       | TR 9/21 on Gradescope    |
+| Project 3: 2048                               | TR 10/5 on Gradescope    |
+| Project 4: Explore Post                       | FRI 10/20 on Gradescope  |
+| Project 4: Explore Post Comments              | MON 10/23 on Edstem      |
+| Project 5: Pyturis                            | MON 11/6 on PrairieLearn |
+| Project 6: Final Project                      | WED 11/29 on Gradescope  |
 
 **All deadlines are at 2359 hrs (11:59:00 PM.)**
 
-* **Project Parties**: These will serve as specialized OH wherein you'll be able to work with your peers <b>(within the limits of our collaboration policies)</b> and seek assistance from course-staff on whatever project is currently assigned. We strongly encourage you to attend project parties as they will help you finish your assignments on time. Project Parties will run on Mondays (6-9PM) and Fridays (6/23) on most weeks. Here's a detailed schedule:
 
-## Project-Party Schedule
-
-
-| Week             | Date     | Time     |  Location  |
-| :----:           | :----:   | :----:   |  :----:    | 
-| Week-1           | FRI 6/23 | 2-5PM    |  Cory-521  |
-| Week-2           | MON 6/26 | 6-9PM    |  Cory-521  |
-| Week-2           | FRI 6/30 | 2-5PM    |  Cory-521  |
-| Week-3           | MON 7/03 | 6-9PM    |  The Woz   |
-| Week-4           | MON 7/10 | 6-9PM    |  The Woz   |
-| Week-4           | FRI 7/14 | 2-5PM    |  The Woz   |
-| Week-5           | MON 7/17 | 6-9PM    |  The Woz   |
-| Week-5           | FRI 7/21 | 2-5PM    |  The Woz   |
-| Week-6           | MON 7/24 | 6-9PM    |  The Woz   |
-| Week-6           | FRI 7/28 | 2-5PM    |  Cory-521  |
-| Week-7           | MON 7/31 | 6-9PM    |  The Woz   |
-| Week-7           | FRI 8/04 | 2-5PM    |  Cory-521  |
-| Week-8           | MON 8/07 | 6-9PM    |  The Woz   |
-
-**The Woz refers to The Wozniak Lounge: Soda 430-438.**
-
-
-* **Exams**: There will be two exams (Midterm and Final), with two components each (pen-and-paper and in-lab):<br /><br /><b>Pen-and-paper Midterm</b>: On Friday, July 7th 2023, from 5-8 PM (or 6-8PM, we'll finalize and update this later) in Pimentel-1<br /><b>In-lab Midterm</b>: On Monday, July 10th 2023, in your assigned lab section in Sutarjda Dai Hall 200.<br />
-<br /><b>In-lab Final</b>: On Thursday, August 3rd 2023, in your assigned lab section in Sutarjda Dai Hall 200.<br /><b>Pen-and-paper Final</b>: On Thursday, August 10th 2023, from 3-6 PM in Dwinelle-155.<br /><br />Exams will be held in-person, on-campus, at these times only. No alternate / remote exams will be offered. If you miss an exam, you'll receive a zero. If there was an emergency, please email the instructor (vedansh@) and cc cs10@. It is your responsibility to find the exam rooms. It might help to visit the rooms a day in advance (you could use Google Maps to find these locations.)<br /><br />More logistics for the exam will be released closer to the exam date. The best way to prepare is to utilize the practice exams posted under `resources`. Exam review sessions will also be conducted and details will be posted on Edstem closer to the exams. To ask questions about past exams, you're welcome to visit the instructor's OH. The Summer 2022 exam will likely be slightly more reflective of our exam in format / style of problems, though difficulty and question-types may vary nonetheless.
+* **Exams**: There will be three take-home, untimed, online, open-note exams (Quest, Midterm, and Postterm):<br /><br /><b>Quest</b>: Week-4<br />
+<br /><b>Midterm</b>: Week-8.<br /><b>Postterm</b>: RRR and finals week. Specific dates and more logistics for the exams will be released closer to the exam date. The best way to prepare is to utilize the practice exams posted under `resources` and the practice exams we'll release on PrairieLearn. 
 
 
 ## General Grading Breakdown — Percentages
@@ -112,27 +91,30 @@ This Fall, CS10 is required to run fully in-person. Consequently, remote (or hyb
 | Component                                     |  Percentage Weighting  |
 | :----:                                        |  :----:  |
 | Attendance / Participation                    | 5%       |
-| Labs                                          | 15%      |
-| Midterm Exam                                  | 20%      |
-| Projects                                      | 30%      |
-| Final Exam                                    | 30%      |
+| Labs                                          | 6%       |
+| Reading Quizzes                               | 2%       |
+| Projects                                      | 46%      |
+| Quest                                         | 5%       |
+| Midterm                                       | 16%      |
+| Final Exam                                    | 20%      |
 
 ## Specific Grading Breakdown — Points
 
 
 | Component                                     |  Points  |
 | :----:                                        |  :----:  |
-| Midterm (In-Lab)                              | 10       |
-| Midterm (Pen-and-Paper)                       | 90       |
-| Final (In-Lab)                                | 25       |
-| Final (Pen-and-Paper)                         | 125      |
+| Quest                                         | 25       |
+| Midterm                                       | 80       |
+| Postterm                                      | 100      |
 | Project 1: Wordle™-lite                       | 10       |
-| Project 2: Spelling-Bee                       | 25       |
-| Project 3: 2048                               | 35       |
-| Project 4: Pyturis                            | 30       |
-| Final Project                                 | 50       |
-| Labs                                          | 75       |
+| Project 2: Spelling-Bee                       | 20       |
+| Project 3: 2048                               | 45       |
+| Project 4: Explore                            | 25       |
+| Project 5: Pyturis                            | 50       |
+| Final Project                                 | 80       |
+| Labs                                          | 30       |
 | Attendance / Participation                    | 25       |
+| Reading Quizzes                               | 10       |
 
 **Total: 500 Points**
 
@@ -140,7 +122,8 @@ This Fall, CS10 is required to run fully in-person. Consequently, remote (or hyb
 
 | Letter Grade       |    Range                          |
 | :----:             |    :----:                         |
-| A                  |    460-                           |
+| A+                 |    485-500                        |
+| A                  |    460-484                        |
 | A-                 |    450-459                        |
 | B+                 |    440-449                        |
 | B                  |    420-439                        |
@@ -151,13 +134,11 @@ This Fall, CS10 is required to run fully in-person. Consequently, remote (or hyb
 | D                  |    300-349                        |
 | F                  |    0-299                          |
 
-'A+' grades will be awarded at the instructor's discretion in cases of exceptional performance.
-
 Your total points will be rounded to the nearest integer when we compute letter grades. 0.5 will round to 1, but 0.49 will round to 0.
 
 
 ## Exam Clobber Policy
-If your percentage score on the final is higher than your percentage score on the midterm, then we will clobber (replace) your percentage score on the midterm with your percentage score on the final. The clobber can never hurt your grade: if you score lower, no replacement will be done.
+If your percentage score on a latter exam is higher than your percentage score on a prior exam, then we'll replace your percentage score on the prior exam with the percentage score on the latter exam. The clobber can never hurt your grade: if you score lower, no replacement will be done.
 
 
 ## DSP Accommodations
@@ -166,16 +147,15 @@ If you have a DSP accommodation through the university, please be sure to submit
 
 ## Extension Requests
 
-We understand that circumstances may arise that may cause you to not be able to meet assignment deadlines.<br /><br /> <b>For extension requests on LABS,</b> please use this [LAB extension requests form](https://forms.gle/mhqfEemN7KoFfWA57). The policy for extension requests on labs are as follows:
+We understand that circumstances may arise that may cause you to not be able to meet assignment deadlines.<br /><br /> <b>For extension requests on LABS,</b> please use this [(TO BE ADDED) LAB extension requests form](). The policy for extension requests on labs are as follows:
 
 - An extension request will grant you an extra lab section in order to complete the lab assignment without any lateness penalties. For instance, if you ask for an extension on lab-12, which is generally due on the day that lab-13 is scheduled, then it will now be due the day that lab-14 is scheduled.
 
-<b>For extension requests on PROJECTS,</b> please use this [PROJECT extension requests form](https://forms.gle/jZgZDXcqhxD6TqqB9). The policy for extension requests on projects are as follows:
+<b>For extension requests on PROJECTS,</b> please use this [(TO BE ADDED) PROJECT extension requests form](). The policy for extension requests on projects are as follows:
 
-- An extension request will automatically extend your submission deadline by 72 hours  without any lateness penalties. For instance, if a project is due by Monday at midnight, then the project will now be due by Thursday at midnight.
+- An extension request will automatically extend your project submission deadline by 72 hours  without any lateness penalties. For instance, if a project is due by Monday at midnight, then the project will now be due by Thursday at midnight.
 
-
-Extension requests are <i>automatically approved</i> after submission of the forms, and you may use as many extension requests as you wish throughout the semester. However, you can only use one extension request for a single assignment. We don't expect to grant extensions beyond 1 lab section for a lab, and beyond 72 hours for a project, but if you have extenuating circumstances, contact cs10@.
+Further details about extensions will be added in the coming days. 
 
 You're also allowed to retroactively obtain extensions without penalty: i.e., you can obtain an extension even after the deadline of a lab/project, but not after the extended deadline for that assignment. The extended deadline for labs, as noted above, is the day that the next lab is scheduled, at 2359 hrs; for projects, it's 72h after the original deadline.
 
@@ -187,7 +167,7 @@ You're also allowed to retroactively obtain extensions without penalty: i.e., yo
 
 ## Lateness Penalties
 
-Any labs or projects that are submitted late will receive half-credit, regardless of how late the submission is. For the final project, late submissions may not be graded since our grading staff has limited availability. If you need an extension, please utilize the extension request form. If there are extenuating circumstances, please email cs10@.
+Any labs or projects that are submitted late will receive half-credit, regardless of how late the submission is. For the final project, late submissions may not be graded since our grading staff has limited availability. If you need an extension, please utilize the extension request forms. If there are extenuating circumstances, please email cs10@.
 
 
 ## Academic Integrity
