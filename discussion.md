@@ -9,7 +9,7 @@ nav_order: 4
 
 This page will be updated with discussion worksheets and solutions throughout the semester. Recordings, when available, will also be posted here.
 
-**Discussion 0**{: .label .label-discussion } <i>Snap!</i> Basics | [worksheet](https://drive.google.com/file/d/1FYqoSXdRHBbi2fAHnQUgLg820ZAxQQ76/view?.usp=sharing) | [solutions](https://drive.google.com/file/d/1vKiGNXdeY_2gkThozq6pKHChqYKcNfOq/view?usp=share_link) | [recording](https://drive.google.com/drive/folders/1cGZWt5oODo_nACtizxK6zeP8d6Opv_Ws?usp=share_link)
+<!-- **Discussion 0**{: .label .label-discussion } <i>Snap!</i> Basics | [worksheet](https://drive.google.com/file/d/1FYqoSXdRHBbi2fAHnQUgLg820ZAxQQ76/view?.usp=sharing) | [solutions](https://drive.google.com/file/d/1vKiGNXdeY_2gkThozq6pKHChqYKcNfOq/view?usp=share_link) | [recording](https://drive.google.com/drive/folders/1cGZWt5oODo_nACtizxK6zeP8d6Opv_Ws?usp=share_link)
 
 **Discussion 1**{: .label .label-discussion } Number Rep, Control, Scoping, Domain & Range | [note](https://drive.google.com/file/d/1N_Pu_jr7kO3FYe0lZKCu1nUtLjuH2vTb/view?usp=sharing) | [worksheet](https://drive.google.com/file/d/1qw2-HwxDfSdQ9UObbxWvbItgDcwK-mU8/view?usp=sharing) | [solutions](https://drive.google.com/file/d/1KKbukw5fTxsRhbV0RibTOZ_thMbsqD8o/view?usp=sharing) | [recording](https://youtu.be/srderPWvV9c)
 
@@ -33,7 +33,7 @@ This page will be updated with discussion worksheets and solutions throughout th
 **Discussion 10**{: .label .label-discussion } Concurrency and Tree Recursion | [worksheet](https://drive.google.com/file/d/1UhHiDaaEMaiIoC5ohz-TNIu5kSp4ONna/view?usp=sharing) | [starter code](https://drive.google.com/file/d/1nf4577ESWs87feUEn-H5fPAqauYEN5k3/view?usp=sharing) | [worksheet solutions](https://drive.google.com/file/d/1MqESz2xjTKSYQ5Crj2VxvNU2cvCVgX4r/view?usp=sharing) | [code solutions](https://drive.google.com/file/d/1dRCINny1HGqIqD2GReboIHvUmciyGIVJ/view?usp=sharing)
 
 
-**Discussion 11**{: .label .label-discussion } Final Review | [worksheet](https://drive.google.com/file/d/1EafKCpdNczOhgYxL_UaBI_PRE63EusoW/view?usp=sharing) | [solutions](https://drive.google.com/file/d/1rt6PC9uhtVCgo7WJdi9lzu2IMcJept29/view?usp=sharing)
+**Discussion 11**{: .label .label-discussion } Final Review | [worksheet](https://drive.google.com/file/d/1EafKCpdNczOhgYxL_UaBI_PRE63EusoW/view?usp=sharing) | [solutions](https://drive.google.com/file/d/1rt6PC9uhtVCgo7WJdi9lzu2IMcJept29/view?usp=sharing) -->
 
 
 
