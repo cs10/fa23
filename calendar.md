@@ -15,7 +15,7 @@
     <!-- WEEK ONE -->
     <tr>
       <td rowspan=5>1</td> <!-- Week Number -->
-      <th>Mon 8/21</th> <!-- Date -->
+      <!-- <th>Mon 8/21</th> <!-- Date -->
       <td></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td>No Class</td> <!-- Lab -->
@@ -30,9 +30,9 @@
       <td></td> <!-- Discussion -->
       <td>Section Signups Due</td> <!-- Assignment -->
     </tr>
-    <tr>
+    <tr> -->
       <th>Wed 8/23 </th> <!-- Date -->
-      <td>1. Welcome to CS10 & Abstraction <a href="https://drive.google.com/file/d/1GQWC_Jj8RS0tSGT5xhliHrHbLNzE7FYU/view?usp=sharing">(slides)</a> </td> <!-- Lecture -->
+      <td>1. Welcome to CS10 & Abstraction <a href="https://drive.google.com/file/d/1HSXjSchiiMYCIhIhrkZcfbGRHNiFyQiv/view?usp=sharing">(slides)</a> </td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td><a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/intro_pair/1-introduction.topic&course=&novideo&noreading&noassignment">1. Welcome to Snap!</a><br/>(No checkoff)</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
@@ -43,43 +43,43 @@
       <td></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td></td> <!-- Lab -->
-      <td><a href="https://cs10.org/fa22/discussion/">1. Welcome to CS 10!</a></td> <!-- Discussion -->
+      <td><a href="https://cs10.org/fa23/discussion/">1. Welcome to CS 10!</a></td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
-    <tr>
+    <!-- <tr>
       <th>Fri 8/25</th> <!-- Date -->
       <td></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td></td> <!-- Lab -->
       <td></td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
-    </tr>
+    </tr> -->
 
     <!-- WEEK TWO -->
     <tr>
       <td rowspan=5>2</td> <!-- Week Number -->
       <th>Mon 8/28</th> <!-- Date -->
-      <td>2. Functions<a href="https://drive.google.com/file/d/1Ht3y1NOwtOJbOYcEeuLHSUqmyhAw7OW-/view?usp=sharing">(slides)</a></td> <!-- Lecture -->
+      <td>2. Functions<a href="">(slides)</a></td> <!-- Lecture -->
       <td><a href="https://cs10.org/fa22/readings/">Week 2 Readings</a></td> <!-- Readings -->
       <td><a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/intro_pair/2-loops-variables.topic&course=cs10_fa21.html&novideo&noreading&noassignment">2. Build Your Own Blocks</a><br/>
         (due 8/30)</td> <!-- Lab -->
-      <td><a href="https://cs10.org/fa22/discussion/">1. Welcome to CS 10!</a></td> <!-- Discussion -->
+      <td><a href="https://cs10.org/fa22/discussion/">1. Welcome to CS 10!</a></td> Discussion
       <td><a href="https://docs.google.com/document/d/14yTQOcw_RqoeyT5H0eQZNCjQj1QWi84-KD8yaVftsCQ/edit?usp=sharing">Proj 1: Wordle™ Lite</a><br/>
-        (due 09/07)<br/>
+        (due 09/06)<br/>
           Reading Quiz 1<br/>
             (due 9/1)</td> <!-- Assignment -->
     </tr>
-    <tr>
+    <!-- <tr>
       <th>Tue 8/29</th> <!-- Date -->
       <td></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td></td> <!-- Lab -->
       <td></td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
-    </tr>
+    </tr> -->
     <tr>
       <th>Wed 8/30 </th> <!-- Date -->
-      <td>3. Numbers and Abstraction <a href="https://drive.google.com/file/d/1ICST50BEh2AkzKCBSQWyapqgEzorKVu9/view?usp=sharing">(slides)</a></a></td> <!-- Lecture -->
+      <td>3. Numbers and Abstraction <a href="">(slides)</a></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td><a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/intro_pair/2-conditionals-testing-su21.topic&course=cs10_fa21.html&novideo&noreading&noassignment">3. Conditionals, Reporters, & Abstraction</a><br/>
         (due 9/6)</td> <!-- Lab -->
@@ -91,17 +91,17 @@
       <td></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td></td> <!-- Lab -->
-      <td><a href="https://cs10.org/fa22/discussion/">2. Number Rep & Control Structures</a></td> <!-- Discussion -->
+      <td><a href="https://cs10.org/fa23/discussion/">2. Number Rep & Control Structures</a></td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
-    <tr>
+    <!-- <tr>
       <th>Fri 9/1</th> <!-- Date -->
       <td></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td></td> <!-- Lab -->
       <td></td> <!-- Discussion -->
       <td>Reading Quiz 1 Due</td> <!-- Assignment -->
-    </tr>
+    </tr> -->
 
     <!-- WEEK THREE -->
     <tr>
