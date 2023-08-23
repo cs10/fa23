@@ -142,15 +142,13 @@
       <td></td> <!-- Readings -->
       <td></td> <!-- Lab -->
       <td></td> <!-- Discussion -->
-      <td>Reading Quiz 2 Due<br/></td>
-      <td></td><!-- Assignment --> 
+      <td>Reading Quiz 2 Due</td> 
     </tr>
     <!-- WEEK FOUR -->
     <tr>
       <td rowspan=5>4</td> <!-- Week Number -->
       <th>Mon 9/11</th> <!-- Date -->
       <td>5. Algorithms<a href="">(slides)</a></td> <!-- Lecture -->
-      <td></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td><a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/areas/algorithms.topic&course=&novideo&noreading&noassignment">5. Algorithms</a><br/>
         (due 9/13)</td><!-- Lab -->
