@@ -142,20 +142,19 @@
       <td></td> <!-- Readings -->
       <td></td> <!-- Lab -->
       <td></td> <!-- Discussion -->
-      <td>Reading Quiz 2 Due<br/>
+      <td>Reading Quiz 2 Due<br/></td>
       <td></td><!-- Assignment --> 
     </tr>
-
     <!-- WEEK FOUR -->
     <tr>
       <td rowspan=5>4</td> <!-- Week Number -->
       <th>Mon 9/11</th> <!-- Date -->
-      <td>5. Algorithms<a href="https://docs.google.com/presentation/d/1gozRmEGpizb1R1e1G9u94DdBs13hOSvs/edit?usp=sharing&ouid=100468452242476439424&rtpof=true&sd=true">(slides)</a></td> <!-- Lecture -->
+      <td>5. Algorithms<a href="">(slides)</a></td> <!-- Lecture -->
       <td></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td><a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/areas/algorithms.topic&course=&novideo&noreading&noassignment">5. Algorithms</a><br/>
-        (due 9/18)<!-- Lab -->
-      <td><a href="https://cs10.org/fa23/discussion/">3. Domain/Range, Scoping, Lists & HOFs</a></td> <!-- Discussion -->
+        (due 9/13)<!-- Lab -->
+      <td></td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
     <tr>
@@ -163,15 +162,15 @@
       <td></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td></td> <!-- Lab -->
-      <td><a href="https://cs10.org/fa23/discussion/">3. Domain/Range, Scoping, Lists & HOFs</a></td> <!-- Discussion -->
+      <td></td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
     <tr>
       <th>Wed 9/13 </th> <!-- Date -->
-      <td>6. Social Implications (I)<a href="https://docs.google.com/presentation/d/1TWeFdTZapeCdxtAH6MM1qktNuuzod29c/edit?usp=sharing&ouid=100468452242476439424&rtpof=true&sd=true">(slides)</a></td> <!-- Lecture -->
-      <td>7. Social Implications (II- Education)<a href="https://drive.google.com/file/d/16pjTWrRbxxRCWQgf4Y3jvoit52mdt6gw/view?usp=sharing">(slides)</a></a></td> <!-- Lecture -->
+      <td>6. Algorithmic Complexity<a href="">(slides)</a></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
-      <td>PROJ 2 Work Session</td> <!-- Lab -->
+      <td><a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/areas/algorithm-complexity.topic&course=&novideo&noreading&noassignment"> 6. Algorithmic Complexity</a><br/>
+        (due 9/18)</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
@@ -179,19 +178,18 @@
       <th>Thur 9/14</th> <!-- Date -->
       <td></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
-      <td>PROJ 2 Work Session</td> <!-- Lab -->
-      <td></td> <!-- Discussion -->
+      <td></td> <!-- Lab -->
+      <td><a href="https://cs10.org/fa23/discussion/">4. Algorithms</a></td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
     <tr>
       <th>Fri 9/15</th> <!-- Date -->
-      <td>8. Algorithmic Complexity<a href="https://drive.google.com/file/d/16jJ5OPidC_xtu-lVUcIA4ZPNxekNbAIs/view?usp=sharing">(slides)</a>
-      <a href = "https://www.youtube.com/c/IesgDepartmental">(live stream)</a> <a href = "https://www.youtube.com/watch?v=a92HPXbB_8w&list=PLnocShPlK-FugD3qpxoBnu6RkDKyqsyvZ&index=8">(recording)</a></td> <!-- Lecture -->
+      <td></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td></td> <!-- Lab -->
-      <td><a href="https://cs10.org/fa23/discussion/">4. Algorithms</a></td> <!-- Discussion -->
+      <td></td> <!-- Discussion -->
       <td>release <b>QUEST</b><br/>
-        (due 9/18)</td> <!-- Assignment -->
+        (due 9/17)</td> <!-- Assignment -->
     </tr>
 
     <!-- WEEK FIVE -->
@@ -200,8 +198,7 @@
       <th>Mon 9/18</th> <!-- Date -->
       <td></td> <!-- Lecture -->
       <td><a href="https://cs10.org/fa23/readings/">Week 5 Readings</a></td> <!-- Readings -->
-      <td><a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/areas/algorithm-complexity.topic&course=&novideo&noreading&noassignment"> 6. Algorithmic Complexity</a><br/>
-        (due 9/21)</td> <!-- Lab -->
+      <td></td> <!-- Lab -->
       <td><a href="https://cs10.org/fa23/discussion/">4. Algorithms</a></td> <!-- Discussion -->
       <td>release Reading Quiz 3<br/>
         (due 9/23)</td> <!-- Assignment -->
