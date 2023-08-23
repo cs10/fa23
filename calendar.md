@@ -306,7 +306,7 @@
       <th>Wed 10/4 </th> <!-- Date -->
       <td>13. Guest Lecture: Saving the World with Computing<a href="">(slides)</a></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
-      <td>PROJ 3 Work Session</br> NO new lab</td> <!-- Lab -->
+      <td>PROJ 3 Work Session<br/> NO new lab</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
@@ -555,7 +555,7 @@
       <th>Mon 11/13</th> <!-- Date -->
       <td>25. Guest Lecture: Limits of Computing<a href = "">(slides)</a></td> <!-- Lecture -->
       <td><a href="https://cs10.org/fa23/readings/">Week 13 Readings</a></td> <!-- Readings -->
-      <td><a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/libraries/libraries.topic&course=cs10_fa20.html&novideo&noreading&noassignment"> 18. Snap! & Python Libraries </a></br> (due 11/20)</td> <!-- Lab -->
+      <td><a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/libraries/libraries.topic&course=cs10_fa20.html&novideo&noreading&noassignment"> 18. Snap! & Python Libraries </a><br/> (due 11/20)</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
       <td>release Reading Quiz 11<br/>
         (due 11/17)</td> <!-- Assignment -->
@@ -644,7 +644,7 @@
       <th>Mon 11/27</th> <!-- Date -->
       <td>26. Social Implications<a href = "">(slides)</a></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
-      <td>Final Project Work-Session </br>NO new lab.</td> <!-- Lab -->
+      <td>Final Project Work-Session <br/>NO new lab.</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
@@ -660,7 +660,7 @@
       <th>Wed 11/29</th> <!-- Date -->
       <td>27. Conclusion and Farewell<a href="">(slides)</a></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
-      <td>Final Project Work-Session </br>NO new lab.</td> <!-- Lab -->
+      <td>Final Project Work-Session <br/>NO new lab.</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
       <td>FINAL PROJ due</td> <!-- Assignment -->
     </tr>
