@@ -173,7 +173,8 @@
     <tr>
       <th>Wed 9/13 </th> <!-- Date -->
       <td>6. Social Implications (I)<a href="https://docs.google.com/presentation/d/1TWeFdTZapeCdxtAH6MM1qktNuuzod29c/edit?usp=sharing&ouid=100468452242476439424&rtpof=true&sd=true">(slides)</a></td> <!-- Lecture -->
-      <td>7. Social Implications (II- Education)<a href="https://drive.google.com/file/d/16pjTWrRbxxRCWQgf4Y3jvoit52mdt6gw/view?usp=sharing">(slides)</a></a></td> <!-- Lecture -->
+      <td>7. Social Implications (II- Education)<a href="https://drive.google.com/file/d/16pjTWrRbxxRCWQgf4Y3jvoit52mdt6gw/view?usp=sharing">(slides)</a>
+      <a href = "https://www.youtube.com/c/IesgDepartmental">(live stream)</a> <a href = "https://www.youtube.com/watch?v=DJT1Pt3bcNo&list=PLnocShPlK-FugD3qpxoBnu6RkDKyqsyvZ&index=7">(recording)</a></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td>PROJ 2 Work Session</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
