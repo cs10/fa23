@@ -22,6 +22,8 @@ permalink: pretty
 aux_links_new_tab: true
 ga_tracking: UA-47210910-1
 external_navigation:
+  - title: Lecture Recordings
+    url: https://bcourses.berkeley.edu/courses/1528263/external_tools/78985
   - title: Ed Discussion
     url: https://edstem.org/us/courses/43356/discussion/
   - title: Gradescope
