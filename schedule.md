@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Daily Schedule [This page is under construction, check back on Friday 8/25.] 
+title: Daily Schedule
 description: The weekly event schedule.
 nav_exclude: false
 nav_order: 2
