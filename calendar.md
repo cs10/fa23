@@ -64,8 +64,8 @@
       <td></td> <!-- Discussion -->
       <td><a href="">Proj 1: Wordle™ Lite</a><br/>
         (due 9/6)<br/>
-          Reading Quiz 1<br/>
-            (due 9/1)</td> <!-- Assignment -->
+        release Reading Quiz 1<br/>
+            (Due 9/1)</td> <!-- Assignment -->
     </tr>
     <tr>
       <th>Tue 8/29</th> <!-- Date -->
@@ -110,8 +110,8 @@
         (Labor Day)</td> <!-- Lab -->
       <td>NO CLASS<br/>
         (Labor Day)</td> <!-- Discussion -->
-      <td>Reading Quiz 2<br/>
-        (due 9/8)</td> <!-- Assignment -->
+      <td>release Reading Quiz 2<br/>
+        (Due 9/8)</td> <!-- Assignment -->
     </tr>
     <tr>
       <th>Tue 9/5</th> <!-- Date -->
@@ -247,7 +247,7 @@
       <td><a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/lists/tic-tac-toe.topic&course=&novideo&noreading&noassignment">8. Boards</a><br/>
         (due 9/27)</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
-      <td>release Reading Quiz 5<br/>
+      <td>release Reading Quiz 4<br/>
         (due 9/29)</td> <!-- Assignment -->
     </tr>
     <tr>
@@ -292,7 +292,7 @@
       <td><a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/recur/recursive-reporters-part1.topic&course=&novideo&noreading&noassignment"> 10. Recursive Reporters</a><br/>
         (due 10/9)</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
-      <td></td> <!-- Assignment -->
+      <td>release Reading Quiz 5<br/>(Due 10/06)</td> <!-- Assignment -->
     </tr>
     <tr>
       <th>Tue 10/3</th> <!-- Date -->
@@ -324,7 +324,7 @@
       <td></td> <!-- Readings -->
       <td></td> <!-- Lab -->
       <td></td> <!-- Discussion -->
-      <td></td> <!-- Assignment -->
+      <td>Reading Quiz 5 Due</td> <!-- Assignment -->
     </tr>
     <!-- WEEK EIGHT -->
     <tr>
@@ -368,7 +368,7 @@
       <td></td> <!-- Lab -->
       <td>NO CLASS<br/>
         (MIDTERM)</td> <!-- Discussion -->
-      <td>Reading Quiz 6 Due</td> <!-- Assignment -->
+      <td>MIDTERM</td> <!-- Assignment -->
     </tr>
     <!-- WEEK NINE -->
     <tr>
@@ -379,7 +379,7 @@
       <td><a href="https://cs10.org/bjc-r/llab/html/topic.html?topic=berkeley_bjc%2Fpython%2Fbesides-blocks-welcome-parsons.topic&course&novideo&noreading&noassignment">12. Welcome to Python</a><br/>
         (due 10/18)</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
-      <td></td> <!-- Assignment -->
+      <td>release Reading Quiz 6 <br/>(Due 10/20)</td> <!-- Assignment -->
     </tr>
     <tr>
       <th>Tue 10/17</th> <!-- Date -->
@@ -411,7 +411,9 @@
       <td></td> <!-- Readings -->
       <td></td> <!-- Lab -->
       <td></td> <!-- Discussion -->
-      <td>PROJ 4 (POST) Due<br/></td> <!-- Assignment -->
+      <td>
+      Reading Quiz 6 Due <br/>
+      PROJ 4 (POST) Due<br/></td> <!-- Assignment -->
     </tr>
     <!-- WEEK TEN -->
     <tr>
@@ -421,7 +423,10 @@
       <td><a href="https://cs10.org/fa23/readings/">Week 10 Readings</a></td> <!-- Readings -->
       <td><a href="https://cs10.org/bjc-r/cur/programming/python/object-oriented-programming-joshhug/oop_intro.html?topic=berkeley_bjc%2Fpython%2Fbesides-blocks-oop-joshhug-edition.topic&course&novideo&noreading&noassignment">14. OOP in Python</a></td> <!-- Lab -->
       <td></td> <!-- Discussion -->
-      <td>PROJ 4 (COMMENTS) Due<br/>
+      <td>
+      release Reading Quiz 7 <br/>
+      (Due 10/27)<br/>
+      PROJ 4 (COMMENTS) Due<br/>
         <a href="">(PROJ 5: Pyturis released)</a><br/>
           (due 11/6)<br/></td> <!-- Assignment -->
     </tr>
@@ -456,7 +461,9 @@
       <td></td> <!-- Readings -->
       <td></td> <!-- Lab -->
       <td></td> <!-- Discussion -->
-      <td><a href="">(FINAL PROJ released)</a><br/>
+      <td>
+      Reading Quiz 7 Due<br/>
+      <a href="">(FINAL PROJ released)</a><br/>
         (due 11/29)</td> <!-- Assignment -->
     </tr>
     <!-- WEEK ELEVEN -->
@@ -467,8 +474,8 @@
       <td><a href="https://cs10.org/fa23/readings/">Week 11 Readings</a></td> <!-- Readings -->
       <td><a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/python/data-lab.topic&course=&novideo&noreading&noassignment"> 16. Intro to Data Science (Optional)</a><br/></td> <!-- Lab -->
       <td></td> <!-- Discussion -->
-      <td>release Reading Quiz 9<br/>
-        (due 11/3)</td> <!-- Assignment -->
+      <td>release Reading Quiz 8<br/>
+        (Due 11/3)</td> <!-- Assignment -->
     </tr>
     <tr>
       <th>Tue 10/31</th> <!-- Date -->
@@ -501,7 +508,7 @@
       <td></td> <!-- Readings -->
       <td></td> <!-- Lab -->
       <td></td> <!-- Discussion -->
-      <td>Reading Quiz 8 Due<br/>
+      <td>Reading Quiz 7 Due<br/>
         FINAL PROJ Proposal Due</td> <!-- Assignment -->
     </tr>
     <!-- WEEK TWELVE -->
@@ -514,7 +521,7 @@
       <td>Final Project Proposal Meetings<br/>NO new lab.</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
       <td>PROJ 5 Due<br/>
-        release Reading Quiz 10<br/>
+        release Reading Quiz 9<br/>
           (due 11/11)</td> <!-- Assignment -->
     </tr>
     <tr>
@@ -547,7 +554,7 @@
       <td></td> <!-- Readings -->
       <td></td> <!-- Lab -->
       <td></td><!-- Discussion -->
-      <td>Reading Quiz 10 Due</td> <!-- Assignment -->
+      <td>Reading Quiz 9 Due<br/></td> <!-- Assignment -->
     </tr>
     <!-- WEEK THIRTEEN -->
     <tr>
@@ -557,7 +564,7 @@
       <td><a href="https://cs10.org/fa23/readings/">Week 13 Readings</a></td> <!-- Readings -->
       <td><a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/libraries/libraries.topic&course=cs10_fa20.html&novideo&noreading&noassignment"> 18. Snap! & Python Libraries </a><br/> (due 11/20)</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
-      <td>release Reading Quiz 11<br/>
+      <td>release Reading Quiz 10<br/>
         (due 11/17)</td> <!-- Assignment -->
     </tr>
     <tr>
@@ -590,7 +597,7 @@
       <td></td> <!-- Readings -->
       <td></td> <!-- Lab -->
       <td></td> <!-- Discussion -->
-      <td>Reading Quiz 10 Due</td> <!-- Assignment -->
+      <td>Reading Quiz 10 Due<br/></td> <!-- Assignment -->
     </tr>
     <!-- WEEK FOURTEEN -->
     <tr>
@@ -600,8 +607,7 @@
       <td><a href="https://cs10.org/fa23/readings/">Week 14 Readings (optional)</a></td> <!-- Readings -->
       <td></td> <!-- Lab -->
       <td></td> <!-- Discussion -->
-      <td>release Reading Quiz 11<br/>
-        (due 11/25)</td> <!-- Assignment -->
+      <td></td> <!-- Assignment -->
     </tr>
     <tr>
       <th>Tue 11/21</th> <!-- Date -->
@@ -646,7 +652,8 @@
       <td></td> <!-- Readings -->
       <td>Final Project Work-Session <br/>NO new lab.</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
-      <td></td> <!-- Assignment -->
+      <td>release Reading Quiz 11<br/>
+        (Due 12/01)</td> <!-- Assignment -->
     </tr>
     <tr>
       <th>Tue 11/28</th> <!-- Date -->
@@ -678,7 +685,8 @@
       <td></td> <!-- Readings -->
       <td></td> <!-- Lab -->
       <td></td> <!-- Discussion -->
-      <td><b>Postterm RELEASED</b></td> <!-- Assignment -->
+      <td>Reading Quiz 11 Due<br/>
+      <b>Postterm RELEASED</b></td> <!-- Assignment -->
     </tr>
     <!-- WEEK SIXTEEN - RRR WEEK-->
     <tr>
