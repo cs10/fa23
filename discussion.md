@@ -9,9 +9,9 @@ nav_order: 4
 
 This page will be updated with discussion worksheets and solutions throughout the semester. Recordings, when available, will also be posted here.
 
-<!-- **Discussion 0**{: .label .label-discussion } <i>Snap!</i> Basics | [worksheet](https://drive.google.com/file/d/1FYqoSXdRHBbi2fAHnQUgLg820ZAxQQ76/view?.usp=sharing) | [solutions](https://drive.google.com/file/d/1vKiGNXdeY_2gkThozq6pKHChqYKcNfOq/view?usp=share_link) | [recording](https://drive.google.com/drive/folders/1cGZWt5oODo_nACtizxK6zeP8d6Opv_Ws?usp=share_link)
+**Discussion 1**{: .label .label-discussion } <i>Welcome to Snap!</i> | [worksheet](https://docs.google.com/document/d/1KUWjNNzFtBg3EGYuTAd422l7F1lxLbTy-LAsIy3rqV4/edit?usp=sharing) | [solutions](http://bit.ly/compsci10) | [recording](http://bit.ly/compsci10)
 
-**Discussion 1**{: .label .label-discussion } Number Rep, Control, Scoping, Domain & Range | [note](https://drive.google.com/file/d/1N_Pu_jr7kO3FYe0lZKCu1nUtLjuH2vTb/view?usp=sharing) | [worksheet](https://drive.google.com/file/d/1qw2-HwxDfSdQ9UObbxWvbItgDcwK-mU8/view?usp=sharing) | [solutions](https://drive.google.com/file/d/1KKbukw5fTxsRhbV0RibTOZ_thMbsqD8o/view?usp=sharing) | [recording](https://youtu.be/srderPWvV9c)
+<!--**Discussion 1**{: .label .label-discussion } Number Rep, Control, Scoping, Domain & Range | [note](https://drive.google.com/file/d/1N_Pu_jr7kO3FYe0lZKCu1nUtLjuH2vTb/view?usp=sharing) | [worksheet](https://drive.google.com/file/d/1qw2-HwxDfSdQ9UObbxWvbItgDcwK-mU8/view?usp=sharing) | [solutions](https://drive.google.com/file/d/1KKbukw5fTxsRhbV0RibTOZ_thMbsqD8o/view?usp=sharing) | [recording](https://youtu.be/srderPWvV9c)
 
 **Discussion 2**{: .label .label-discussion } Lists & HOFs, Iteration, Scoping | [worksheet](https://drive.google.com/file/d/1eT15LJH38UGfYHR3pLueRlvwMovtyUE8/view?usp=sharing) | [solutions](https://drive.google.com/file/d/1sVdinV45MT2GoISk8BkJGd8C_BZE-LO4/view?usp=sharing) | [recording](https://drive.google.com/file/d/1XGcPW_Wa-YFVxm0Gp31w6LDOKaCIQN6q/view?usp=sharing)
 
