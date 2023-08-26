@@ -9,7 +9,7 @@ nav_order: 4
 
 This page will be updated with discussion worksheets and solutions throughout the semester. Recordings, when available, will also be posted here.
 
-**Discussion 1**{: .label .label-discussion } <i>Welcome to Snap!</i> | [worksheet](https://docs.google.com/document/d/1KUWjNNzFtBg3EGYuTAd422l7F1lxLbTy-LAsIy3rqV4/edit?usp=sharing) | [solutions](http://bit.ly/compsci10) | [recording](http://bit.ly/compsci10)
+**Discussion 1**{: .label .label-discussion } <i>Welcome to Snap!</i> | [worksheet](https://docs.google.com/document/d/1KUWjNNzFtBg3EGYuTAd422l7F1lxLbTy-LAsIy3rqV4/edit?usp=sharing) | [solutions](http://bit.ly/compsci10) | [recording](https://drive.google.com/file/d/1Y_cOc3cMXZDUkS-RSrqiVByzF3syVp6k/view?usp=sharing)
 
 <!--**Discussion 1**{: .label .label-discussion } Number Rep, Control, Scoping, Domain & Range | [note](https://drive.google.com/file/d/1N_Pu_jr7kO3FYe0lZKCu1nUtLjuH2vTb/view?usp=sharing) | [worksheet](https://drive.google.com/file/d/1qw2-HwxDfSdQ9UObbxWvbItgDcwK-mU8/view?usp=sharing) | [solutions](https://drive.google.com/file/d/1KKbukw5fTxsRhbV0RibTOZ_thMbsqD8o/view?usp=sharing) | [recording](https://youtu.be/srderPWvV9c)
 
