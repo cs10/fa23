@@ -58,11 +58,11 @@
       <td rowspan=5>2</td> <!-- Week Number -->
       <th>Mon 8/28</th> <!-- Date -->
       <td>2. Functions<a href="https://drive.google.com/file/d/1QsFKMq5K7bX2VPp9WHX55R5aKDcaLrJ5/view?usp=sharing">(slides)</a></td> <!-- Lecture -->
-      <td><a href="https://cs10.org/fa23/readings/">Week 2 Readings</a></td> <!-- Readings -->
+      <td><a href="https://cs10.org/fa22/readings/">Week 2 Readings</a></td> <!-- Readings -->
       <td><a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/intro_pair/2-loops-variables.topic&course=cs10_fa21.html&novideo&noreading&noassignment">2. Build Your Own Blocks</a><br/>
         (due 8/30)</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
-      <td><a href="">Proj 1: Wordle™ Lite</a><br/>
+      <td><a href="https://docs.google.com/document/d/14yTQOcw_RqoeyT5H0eQZNCjQj1QWi84-KD8yaVftsCQ/edit?usp=sharing">Proj 1: Wordle™ Lite</a><br/>
         (due 9/6)<br/>
         release Reading Quiz 1<br/>
             (Due 9/1)</td> <!-- Assignment -->
