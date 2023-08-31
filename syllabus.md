@@ -60,6 +60,7 @@ This Fall, CS10 will run fully in-person. Consequently, remote (or hybrid) stude
 
 * **Instructor OH**: Professor Garcia will be hosting Instructor OH (Fridays 1-2PM in Soda-777), which you may attend for more conceptual help (for instance, if you're confused about some topic, or want to go over practice problems) or to discuss more general topics (e.g. college advice or how you're doing in the class.) For help with specific assignments (labs and projects), you should attend Staff-OH.
 
+* **Reading Quizzes**: Are short weekly reading assignments that are submitted to Gradesscope.
 
 * **Projects**: These assignments will be one of the best ways for you to apply what you have learned in lecture, lab, and discussion. These will be a bit more time intensive than the other assignments and will require you to be caught up on the components of the course.
 
@@ -83,7 +84,6 @@ This Fall, CS10 will run fully in-person. Consequently, remote (or hybrid) stude
 
 * **Exams**: There will be three take-home, untimed, online, open-note exams (Quest, Midterm, and Postterm):<br /><br /><b>Quest</b>: Week-4<br />
 <br /><b>Midterm</b>: Week-8.<br /><b>Postterm</b>: RRR and finals week. Specific dates and more logistics for the exams will be released closer to the exam date. The best way to prepare is to utilize the practice exams posted under `resources` and the practice exams we'll release on PrairieLearn. 
-
 
 ## General Grading Breakdown — Percentages
 
@@ -147,22 +147,21 @@ If you have a DSP accommodation through the university, please be sure to submit
 
 ## Extension Requests
 
-We understand that circumstances may arise that may cause you to not be able to meet assignment deadlines.<br /><br /> <b>For extension requests on LABS,</b> please use this [(TO BE ADDED) LAB extension requests form](). The policy for extension requests on labs are as follows:
+We understand that circumstances may arise that may cause you to not be able to meet assignment deadlines.<br /><br /> <b>For extension requests on LABS,</b> please use this [Extension requests form](https://forms.gle/JG9KGBPWkQ98H7Y68). The policy for extension requests on labs are as follows:
 
 - An extension request will grant you an extra lab section in order to complete the lab assignment without any lateness penalties. For instance, if you ask for an extension on lab-12, which is generally due on the day that lab-13 is scheduled, then it will now be due the day that lab-14 is scheduled.
 
-<b>For extension requests on PROJECTS,</b> please use this [(TO BE ADDED) PROJECT extension requests form](). The policy for extension requests on projects are as follows:
+<b>For extension requests on PROJECTS,</b> please use this [Extension requests form](https://forms.gle/JG9KGBPWkQ98H7Y68). The policy for extension requests on projects are as follows:
 
 - An extension request will automatically extend your project submission deadline by 72 hours  without any lateness penalties. For instance, if a project is due by Monday at midnight, then the project will now be due by Thursday at midnight.
 
-Further details about extensions will be added in the coming days. 
 
 You're also allowed to retroactively obtain extensions without penalty: i.e., you can obtain an extension even after the deadline of a lab/project, but not after the extended deadline for that assignment. The extended deadline for labs, as noted above, is the day that the next lab is scheduled, at 2359 hrs; for projects, it's 72h after the original deadline.
 
 
 <b>NOTE: If you added the course late, please use your updated deadline as the 'original due date'.</b>
 
-<b>Important: While extensions may not be visible on PrairieLearn/Gradescope (a.k.a your assignments may be marked as 'Late'), they will be factored in when we compute your final grade.</b>
+<b>Important: While extensions may not be visible on PrairieLearn/Gradescope (a.k.a your assignments may be marked as 'Late'), they will be factored in when we compute your final grade. Extensions are AUTO-approved after filling in the form.</b>
 
 
 ## Lateness Penalties
