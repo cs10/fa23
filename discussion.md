@@ -11,7 +11,7 @@ This page will be updated with discussion worksheets and solutions throughout th
 
 **Discussion 1**{: .label .label-discussion } Welcome to Snap<i>!</i> | [worksheet](https://docs.google.com/document/d/1KUWjNNzFtBg3EGYuTAd422l7F1lxLbTy-LAsIy3rqV4/edit?usp=sharing) | [solutions](https://docs.google.com/document/d/1bF-aab1932JTPI-c3SJe2m4YawGOVz_M96JVpe-7qM0/edit?usp=sharing) | [recording](https://drive.google.com/file/d/1Y_cOc3cMXZDUkS-RSrqiVByzF3syVp6k/view?usp=sharing) | [slides](https://drive.google.com/file/d/1rN0U2r--Pe7_V9PZojDS7QEM-lbE_GNx/view?usp=sharing)
 
-**Discussion 2**{: .label .label-discussion } Number Rep, Control, Scoping, Iteration | [worksheet]([https://docs.google.com/document/d/1KUWjNNzFtBg3EGYuTAd422l7F1lxLbTy-LAsIy3rqV4/edit?usp=sharing) | [solutions](http://bit.ly/compsci10) | [recording](http://bit.ly/compsci10) | [slides](https://drive.google.com/file/d/1RuveJmFwV_Wr07ObNT3LByANqT5g5LEK/view?usp=sharing)
+**Discussion 2**{: .label .label-discussion } Number Rep, Control, Scoping, Iteration | [worksheet](https://docs.google.com/document/d/1_0umtodNf-ZmHfsGTT7XJZJDDlmlH-hxSjw5tVCacZ8/edit?usp=sharing) | [solutions](http://bit.ly/compsci10) | [recording](http://bit.ly/compsci10) | [slides](https://drive.google.com/file/d/1RuveJmFwV_Wr07ObNT3LByANqT5g5LEK/view?usp=sharing)
 
 <!--**Discussion 2**{: .label .label-discussion } Lists & HOFs, Iteration, Scoping, Domain & Range | [worksheet](https://drive.google.com/file/d/1eT15LJH38UGfYHR3pLueRlvwMovtyUE8/view?usp=sharing) | [solutions](https://drive.google.com/file/d/1sVdinV45MT2GoISk8BkJGd8C_BZE-LO4/view?usp=sharing) | [recording](https://drive.google.com/file/d/1XGcPW_Wa-YFVxm0Gp31w6LDOKaCIQN6q/view?usp=sharing)
 
