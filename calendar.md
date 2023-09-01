@@ -123,7 +123,7 @@
     </tr>
     <tr>
       <th>Wed 9/6 </th> <!-- Date -->
-      <td>4. Lists, Scoping, & HOFs<a href="">(slides)</a></td> <!-- Lecture -->
+      <td>4. Lists, Scoping, & HOFs<a href="https://drive.google.com/file/d/1Dlk3Hml0Q2OwkUJFC6sly03yE-kG5ylS/view?usp=sharing">(slides)</a></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td><a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/lists/lists-I.topic&course=&novideo&noreading&noassignment">4. Lists & HOFs </a><br/>(due 9/11)</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
@@ -148,7 +148,7 @@
     <tr>
       <td rowspan=5>4</td> <!-- Week Number -->
       <th>Mon 9/11</th> <!-- Date -->
-      <td>5. Algorithms<a href="">(slides)</a></td> <!-- Lecture -->
+      <td>5. Algorithms<a href="https://drive.google.com/file/d/1DtkCTWPxD_HBnTQUfNWNueMWzbL-T7KC/view?usp=sharing">(slides)</a></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td><a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/areas/algorithms.topic&course=&novideo&noreading&noassignment">5. Algorithms</a><br/>
         (due 9/13)</td><!-- Lab -->
