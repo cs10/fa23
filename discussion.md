@@ -9,7 +9,7 @@ nav_order: 4
 
 This page will be updated with discussion worksheets and solutions throughout the semester. Recordings, when available, will also be posted here.
 
-**Discussion 1**{: .label .label-discussion } Welcome to Snap<i>!</i> | [worksheet](https://docs.google.com/document/d/1KUWjNNzFtBg3EGYuTAd422l7F1lxLbTy-LAsIy3rqV4/edit?usp=sharing) | [solutions]([http://bit.ly/compsci10](https://docs.google.com/document/d/1bF-aab1932JTPI-c3SJe2m4YawGOVz_M96JVpe-7qM0/edit?usp=sharing)) | [recording](https://drive.google.com/file/d/1Y_cOc3cMXZDUkS-RSrqiVByzF3syVp6k/view?usp=sharing) | [slides](https://drive.google.com/file/d/1rN0U2r--Pe7_V9PZojDS7QEM-lbE_GNx/view?usp=sharing)
+**Discussion 1**{: .label .label-discussion } Welcome to Snap<i>!</i> | [worksheet](https://docs.google.com/document/d/1KUWjNNzFtBg3EGYuTAd422l7F1lxLbTy-LAsIy3rqV4/edit?usp=sharing) | [solutions](https://docs.google.com/document/d/1bF-aab1932JTPI-c3SJe2m4YawGOVz_M96JVpe-7qM0/edit?usp=sharing) | [recording](https://drive.google.com/file/d/1Y_cOc3cMXZDUkS-RSrqiVByzF3syVp6k/view?usp=sharing) | [slides](https://drive.google.com/file/d/1rN0U2r--Pe7_V9PZojDS7QEM-lbE_GNx/view?usp=sharing)
 
 **Discussion 2**{: .label .label-discussion } Number Rep, Control, Scoping, Iteration | [worksheet]([https://docs.google.com/document/d/1KUWjNNzFtBg3EGYuTAd422l7F1lxLbTy-LAsIy3rqV4/edit?usp=sharing) | [solutions](http://bit.ly/compsci10) | [recording](http://bit.ly/compsci10) | [slides](https://drive.google.com/file/d/1RuveJmFwV_Wr07ObNT3LByANqT5g5LEK/view?usp=sharing)
 
