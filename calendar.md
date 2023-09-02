@@ -304,7 +304,7 @@
     </tr>
     <tr>
       <th>Wed 10/4 </th> <!-- Date -->
-      <td>13. Guest Lecture: Saving the World with Computing<a href="">(slides)</a></td> <!-- Lecture -->
+      <td>12. Guest Lecture: Saving the World with Computing<a href="">(slides)</a></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td>PROJ 3 Work Session<br/> NO new lab</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
@@ -330,7 +330,7 @@
     <tr>
       <td rowspan=5>8</td> <!-- Week Number -->
       <th>Mon 10/9</th> <!-- Date -->
-      <td>14. Procedures as Data<a href="">(slides)</a></td> <!-- Lecture -->
+      <td>13. Procedures as Data<a href="">(slides)</a></td> <!-- Lecture -->
       <td>NO Readings.</td> <!-- Readings -->
       <td><a href="https://cs10.org/bjc-r/llab/html/topic.html?topic=berkeley_bjc%2Fhofs%2Fhofs-practice.topic&course&novideo&noreading&noassignment">11. Functions as Data, HOFs</a><br/>
         (due 10/13)</td> <!-- Lab -->
@@ -534,7 +534,7 @@
     </tr>
     <tr>
       <th>Wed 11/8</th> <!-- Date -->
-      <td>24. Guest Lecture: Human-computer interaction (HCI)<a href="">(slides)</a></td></td> <!-- Lecture -->
+      <td>22. Guest Lecture: Human-computer interaction (HCI)<a href="">(slides)</a></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td><a href="https://cs10.org/bjc-r/llab/html/topic.html?topic=berkeley_bjc%2Fareas%2Fconcurrency.topic&course&novideo&noreading&noassignment">17. Concurrency</a><br/> (due 11/13)</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
@@ -560,7 +560,7 @@
     <tr>
       <td rowspan=5>13</td> <!-- Week Number -->
       <th>Mon 11/13</th> <!-- Date -->
-      <td>25. Guest Lecture: Limits of Computing<a href = "">(slides)</a></td> <!-- Lecture -->
+      <td>23. Guest Lecture: Limits of Computing<a href = "">(slides)</a></td> <!-- Lecture -->
       <td><a href="https://cs10.org/fa23/readings/">Week 13 Readings</a></td> <!-- Readings -->
       <td><a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/libraries/libraries.topic&course=cs10_fa20.html&novideo&noreading&noassignment"> 18. Snap! & Python Libraries </a><br/> (due 11/20)</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
