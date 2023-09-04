@@ -77,7 +77,7 @@
     </tr>
     <tr>
       <th>Wed 8/30 </th> <!-- Date -->
-      <td>3. Numbers and Abstraction <a href="https://drive.google.com/file/d/1R9e8c1XX_oV_bTAZvL7iVKoIrzHC3Wfx/view?usp=sharing">(slides)</a></td> <!-- Lecture -->
+      <td>3. Numbers and Abstraction<br/> <a href="https://drive.google.com/file/d/1R9e8c1XX_oV_bTAZvL7iVKoIrzHC3Wfx/view?usp=sharing">(slides)</a></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td><a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/intro_pair/2-conditionals-testing-su21.topic&course=cs10_fa21.html&novideo&noreading&noassignment">3. Conditionals, Reporters, & Abstraction</a><br/>
         (due 9/6)</td> <!-- Lab -->
