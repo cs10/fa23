@@ -8,6 +8,17 @@ nav_order: 4
 # Discussion
 
 This page will be updated with discussion worksheets and solutions throughout the semester. Recordings, when available, will also be posted here.
+<style>
+  table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  th, td {
+    border: 1px solid black;
+    text-align: center;
+    padding: 8px;
+  }
+</style>
 
 <table>
   <thead>
