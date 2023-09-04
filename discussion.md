@@ -14,7 +14,6 @@ This page will be updated with discussion worksheets and solutions throughout th
     border-collapse: collapse;
   }
   th, td {
-    border: 1px solid black;
     text-align: center;
     padding: 8px;
   }
