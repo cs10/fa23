@@ -105,7 +105,7 @@
       <td rowspan=5>3</td> <!-- Week Number -->
       <th>Mon 9/4</th> <!-- Date -->
       <td></td> <!-- Lecture -->
-      <td><a href="https://cs10.org/fa23/readings/">Week 3 Readings</a></td> <!-- Readings -->
+      <td><a href="https://cs10.org/fa22/readings/">Week 3 Readings</a></td> <!-- Readings -->
       <td>NO CLASS<br/>
         (Labor Day)</td> <!-- Lab -->
       <td>NO CLASS<br/>
