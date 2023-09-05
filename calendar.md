@@ -127,7 +127,7 @@
       <td></td> <!-- Readings -->
       <td><a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/lists/lists-I.topic&course=&novideo&noreading&noassignment">4. Lists & HOFs </a><br/>(due 9/11)</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
-      <td>PROJ 1 Due<br/><a href = "">(release PROJ 2: Wordle™)</a><br/>(due 9/21)</td>
+      <td>PROJ 1 Due<br/><a href = "">(release PROJ 2: Spelling Bee)</a><br/>(due 9/21)</td>
     <tr>
       <th>Thur 9/7</th> <!-- Date -->
       <td></td> <!-- Lecture -->
