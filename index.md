@@ -39,6 +39,6 @@ UC Berkeley, Fall 2023
   <a href="{{ site.baseurl }}/announcements" class="btn btn-outline">Previous Announcemnts</a>
 </div> -->
 
-## CS10 Calendar [Under Construction]
+## CS10 Calendar
 
 {% include_relative calendar.md %}
