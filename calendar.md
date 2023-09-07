@@ -134,7 +134,7 @@
       <td></td> <!-- Readings -->
       <td></td> <!-- Lab -->
       <td><a href="https://cs10.org/fa23/discussion/">3. Domain/Range, Scoping, Lists & HOFs</a></td> <!-- Discussion -->
-      <td></td> <!-- Assignment -->
+      <td><a href = "">(release PROJ 2: Spelling Bee)</a><br/>(due 9/21)</td> <!-- Assignment -->
     </tr>
     <tr>
       <th>Fri 9/8</th> <!-- Date -->
