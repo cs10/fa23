@@ -165,7 +165,7 @@
     </tr>
     <tr>
       <th>Wed 9/13 </th> <!-- Date -->
-      <td>6. Algorithmic Complexity<br/><a href="">(slides)</a></td> <!-- Lecture -->
+      <td>6. Algorithmic Complexity<br/><a href="https://drive.google.com/file/d/1GxxKnrCacLyBXzp2TDDoGr-yBD4_V3CA/view?usp=drive_link">(slides)</a></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td><a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/areas/algorithm-complexity.topic&course=&novideo&noreading&noassignment"> 6. Algorithmic Complexity</a><br/>
         (due 9/18)</td> <!-- Lab -->
