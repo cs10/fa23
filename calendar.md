@@ -186,7 +186,7 @@
       <td></td> <!-- Readings -->
       <td></td> <!-- Lab -->
       <td></td> <!-- Discussion -->
-      <td>release <b>QUEST</b><br/>
+      <td><b>QUEST</b> Released SAT 9/16<br/>
         (due 9/17)</td> <!-- Assignment -->
     </tr>
     <!-- WEEK FIVE -->
