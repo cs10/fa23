@@ -134,7 +134,7 @@
       <td></td> <!-- Readings -->
       <td></td> <!-- Lab -->
       <td><a href="https://cs10.org/fa23/discussion/">3. Domain/Range, Scoping, Lists & HOFs</a></td> <!-- Discussion -->
-      <td><a href = "https://docs.google.com/document/d/180psa7QELpesRzubYGV-1REMECGmFItsMSA2R8siIZA/edit#heading=h.casab6a7p3lb">PROJ 2: Spelling Bee</a><br/>(due 9/21)</td> <!-- Assignment -->
+      <td><a href = "https://docs.google.com/document/d/180psa7QELpesRzubYGV-1REMECGmFItsMSA2R8siIZA/edit#heading=h.casab6a7p3lb">Proj 2: Spelling Bee</a><br/>(due 9/21)</td> <!-- Assignment -->
     </tr>
     <tr>
       <th>Fri 9/8</th> <!-- Date -->
