@@ -41,7 +41,7 @@ This page will be updated with discussion worksheets and solutions throughout th
     </tr>
     <tr>
       <td>Discussion 2</td>
-      <td>Rep, Control, Iteration, Booleans</td>
+      <td>Number Representation, Control, Iteration, Booleans</td>
       <td><a href="https://docs.google.com/document/d/1_0umtodNf-ZmHfsGTT7XJZJDDlmlH-hxSjw5tVCacZ8/edit?usp=sharing">worksheet</a></td>
       <td><a href="https://docs.google.com/document/d/1YoEWBUgBTKb3up2FKYxCjqHxfZzVCwbO2l372RXidOI/edit?usp=sharing">solutions</a></td>
       <td><a href="https://www.youtube.com/watch?v=FbnrmYiKFvY&list=PLO1S2CinoAzXNJFaTBtUXOWT5tjZag8me&index=7">recording</a></td>
@@ -49,7 +49,7 @@ This page will be updated with discussion worksheets and solutions throughout th
     </tr>
      <tr>
       <td>Discussion 3</td>
-      <td>Number Rep, Control, Iteration, Booleans</td>
+      <td>Data-types, Domain / Range, Scoping, Lists, & HOFs</td>
       <td><a href="https://docs.google.com/document/d/1tW9krWvFAa9KZOZo3pYTLFtvMc7ZkF7rft6GpzPpOTY/edit?usp=sharing">worksheet</a></td>
       <td><a href="https://bit.ly/compsci10">solutions</a></td>
       <td><a href="https://drive.google.com/file/d/1CabrXD9RDKQWQeal1HTBXPYS7f69Y_bn/view">recording</a></td>
