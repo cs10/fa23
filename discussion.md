@@ -51,7 +51,7 @@ This page will be updated with discussion worksheets and solutions throughout th
       <td>Discussion 3</td>
       <td>Data-types, Domain / Range, Scoping, Lists, & HOFs</td>
       <td><a href="https://docs.google.com/document/d/1tW9krWvFAa9KZOZo3pYTLFtvMc7ZkF7rft6GpzPpOTY/edit?usp=sharing">worksheet</a></td>
-      <td><a href="https://bit.ly/compsci10">solutions</a></td>
+      <td><a href="https://docs.google.com/document/d/122o_UIOv4BEcQPzOek-8q1k96fsEuenj9df4QbaYxAI/edit?usp=sharing">solutions</a></td>
       <td><a href="https://drive.google.com/file/d/1CabrXD9RDKQWQeal1HTBXPYS7f69Y_bn/view">recording</a></td>
       <td><a href="https://drive.google.com/file/d/1RaM1aKCytwbLe-j2rlkKnZMV0X2xRSPj/view?usp=drive_link">slides</a></td>
     </tr>
@@ -59,7 +59,7 @@ This page will be updated with discussion worksheets and solutions throughout th
       <td>Discussion 4</td>
       <td>Mutabilituy, HOFs, and Quest-Review</td>
       <td><a href="https://docs.google.com/document/d/1r-27JJstbzTC3UPuS3p9AADtRtCB1dEaRv4DhLjKrPM/edit">worksheet</a></td>
-      <td><a href="https://bit.ly/compsci10">solutions</a></td>
+      <td><a href="https://docs.google.com/document/d/1sIcPK2CmvczHqmy31gKfArKEnSCJQnIXeNDr_mvc4EM/edit?usp=sharing">solutions</a></td>
       <td><a href="https://bit.ly/compsci10">recording</a></td>
       <td><a href="[https://bit.ly/compsci10](https://drive.google.com/file/d/1RaM1aKCytwbLe-j2rlkKnZMV0X2xRSPj/view?usp=drive_link)">slides (Same as DISC-3)</a></td>
     </tr>
