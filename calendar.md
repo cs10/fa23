@@ -214,7 +214,7 @@
     </tr>
     <tr>
       <th>Wed 9/20</th> <!-- Date -->
-      <td>8. Social Implications of Computing<br/> <a href="">(slides)</a></td> <!-- Lecture -->
+      <td>8. Social Implications of Computing<br/> <a href="https://drive.google.com/file/d/1HOUMjURAwrP-gHs8OTzzMglA4AgQwMeX/view?usp=sharing">(slides)</a></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td>Project-2 Work Session<br/> NO Lab Assignment</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
