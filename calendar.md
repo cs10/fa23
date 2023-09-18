@@ -194,7 +194,7 @@
       <td rowspan=5>5</td> <!-- Week Number -->
       <th>Mon 9/18</th> <!-- Date -->
       <td>7. Testing + 2048<br/><a href="https://drive.google.com/file/d/1JWHWjvo4kloDMv2i-yBbnsGhRWLFsHym/view?usp=sharing">(slides)</a></td> <!-- Lecture -->
-      <td><a href="https://cs10.org/fa23/readings/">Week 5 Readings</a></td> <!-- Readings -->
+      <td><a href="https://cs10.org/fa22/readings/">Week 5 Readings</a></td> <!-- Readings -->
       <td><a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/2048-testing/2048.topic&course=&novideo&noreading&noassignment">7. Testing + Proj 3</a><br/>
         (due 9/25)</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
