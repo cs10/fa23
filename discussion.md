@@ -60,8 +60,16 @@ This page will be updated with discussion worksheets and solutions throughout th
       <td>Mutabilituy, HOFs, and Quest-Review</td>
       <td><a href="https://docs.google.com/document/d/1r-27JJstbzTC3UPuS3p9AADtRtCB1dEaRv4DhLjKrPM/edit">worksheet</a></td>
       <td><a href="https://docs.google.com/document/d/1sIcPK2CmvczHqmy31gKfArKEnSCJQnIXeNDr_mvc4EM/edit?usp=sharing">solutions</a></td>
-      <td>NO recording; see Ed #182.</a></td>
+      <td>NO recording; see Ed #182.</td>
       <td><a href="https://drive.google.com/file/d/1RaM1aKCytwbLe-j2rlkKnZMV0X2xRSPj/view?usp=drive_link">slides (Same as DISC-3)</a></td>
+    </tr>
+    <tr>
+      <td>Discussion 5</td>
+      <td>Algorithmic Complexity</td>
+      <td><a href="https://docs.google.com/document/d/1aMf_Cdq8euuGD5g-4fRjra3miXztUeGTUAC7jfVOAC4/edit?usp=sharing">worksheet</a></td>
+      <td><a href="https://bit.ly/compsci10">solutions</a></td>
+      <td><a href="https://bit.ly/compsci10">recording</a></td>
+      <td><a href="https://drive.google.com/file/d/1KixBSrw_eFxW4lDyiaqHt9jHs_UOK9BB/view?usp=sharing">slides</a></td>
     </tr>
   </tbody>
 </table>
