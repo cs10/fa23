@@ -57,7 +57,7 @@ This page will be updated with discussion worksheets and solutions throughout th
     </tr>
     <tr>
       <td>Discussion 4</td>
-      <td>Mutabilituy, HOFs, and Quest-Review</td>
+      <td>Mutability, HOFs, and Quest-Review</td>
       <td><a href="https://docs.google.com/document/d/1r-27JJstbzTC3UPuS3p9AADtRtCB1dEaRv4DhLjKrPM/edit">worksheet</a></td>
       <td><a href="https://docs.google.com/document/d/1sIcPK2CmvczHqmy31gKfArKEnSCJQnIXeNDr_mvc4EM/edit?usp=sharing">solutions</a></td>
       <td>NO recording; see Ed #182.</td>
