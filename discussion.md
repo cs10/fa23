@@ -68,7 +68,7 @@ This page will be updated with discussion worksheets and solutions throughout th
       <td>Algorithmic Complexity</td>
       <td><a href="https://docs.google.com/document/d/1aMf_Cdq8euuGD5g-4fRjra3miXztUeGTUAC7jfVOAC4/edit?usp=sharing">worksheet</a></td>
       <td><a href="https://bit.ly/compsci10">solutions</a></td>
-      <td><a href="https://bit.ly/compsci10">recording</a></td>
+      <td><a href="https://youtube.com/playlist?list=PLO1S2CinoAzXXhu0GqFhLeVS3bUr7JV8f">recording</a></td>
       <td><a href="https://drive.google.com/file/d/1KixBSrw_eFxW4lDyiaqHt9jHs_UOK9BB/view?usp=sharing">slides</a></td>
     </tr>
   </tbody>
