@@ -242,7 +242,7 @@
     <tr>
       <td rowspan=5>6</td> <!-- Week Number -->
       <th>Mon 9/25</th> <!-- Date -->
-      <td>9. Recursion I (Functional)<br/><a href="">(slides)</a></td> <!-- Lecture -->
+      <td>9. Recursion I (Functional)<br/><a href="https://drive.google.com/file/d/1HqOb-VIobEutd832Wds57V0jjkHXSJ3W/view?usp=sharing">(slides)</a><br/><a href="https://drive.google.com/drive/folders/1HfofO5KFaG0njq4bqNTZvp02iyR-xUom?usp=sharing">(code)</a></td> <!-- Lecture -->
       <td><a href="https://cs10.org/fa22/readings/">Week 6 Readings</a></td> <!-- Readings -->
       <td><a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/lists/tic-tac-toe.topic&course=&novideo&noreading&noassignment">8. Boards</a><br/>
         (due 9/27)</td> <!-- Lab -->
@@ -260,7 +260,7 @@
     </tr>
     <tr>
       <th>Wed 9/27 </th> <!-- Date -->
-      <td>10. Recursion II (Fractals)<br/><a href="">(slides)</a></td> <!-- Lecture -->
+      <td>10. Recursion II (Fractals)<br/><a href="https://drive.google.com/file/d/1I3KgqJYg47Z_QthVq7CdtDtZAd_Lygm2/view?usp=sharing">(slides)</a><br/><a href="https://drive.google.com/drive/folders/1IGzg3gPw6fA_HhaiovnWT10z4uFYKbun?usp=sharing">(code)</a></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td><a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/recur/recursion-trees-fractals.topic&course=&novideo&noreading&noassignment">9. Trees & Fractals</a><br/>
         (due 10/2)</td> <!-- Lab -->
