@@ -260,7 +260,7 @@
     </tr>
     <tr>
       <th>Wed 9/27 </th> <!-- Date -->
-      <td>10. Recursion II (Fractals)<br/><a href="https://drive.google.com/file/d/1I3KgqJYg47Z_QthVq7CdtDtZAd_Lygm2/view?usp=sharing">(slides)</a><br/><a href="https://drive.google.com/drive/folders/1IGzg3gPw6fA_HhaiovnWT10z4uFYKbun?usp=sharing">(code)</a></td> <!-- Lecture -->
+      <td>10. Recursion II (Fractals)<br/><a href="https://drive.google.com/file/d/1I3KgqJYg47Z_QthVq7CdtDtZAd_Lygm2/view?usp=sharing">(slides)</a><br/><a href="https://drive.google.com/file/d/1IOW-bKV7-Hmn1SPssbBZ9E5BZF51g8pQ/view?usp=sharing">(code)</a></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td><a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/recur/recursion-trees-fractals.topic&course=&novideo&noreading&noassignment">9. Trees & Fractals</a><br/>
         (due 10/2)</td> <!-- Lab -->
