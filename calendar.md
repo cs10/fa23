@@ -235,7 +235,7 @@
       <td></td> <!-- Lab -->
       <td></td> <!-- Discussion -->
       <td>Reading Quiz 3 Due<br/>
-        <a href= "https://docs.google.com/document/d/16quGw0eUFT__z67uH7NLr-twGBnXriL4SEIkn0XBLaM/edit?usp=sharing">PROJ 3: 2048 </b></a><br/>
+        <a href= "https://docs.google.com/document/d/16quGw0eUFT__z67uH7NLr-twGBnXriL4SEIkn0XBLaM/edit?usp=sharing"><b>PROJ 3: 2048 Released</b></a><br/>
           (due 10/5)</td> <!-- Assignment -->
     </tr>
     <!-- WEEK SIX -->
