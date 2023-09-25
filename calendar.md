@@ -243,7 +243,7 @@
       <td rowspan=5>6</td> <!-- Week Number -->
       <th>Mon 9/25</th> <!-- Date -->
       <td>9. Recursion I (Functional)<br/><a href="">(slides)</a></td> <!-- Lecture -->
-      <td><a href="https://cs10.org/fa23/readings/">Week 6 Readings</a></td> <!-- Readings -->
+      <td><a href="https://cs10.org/fa22/readings/">Week 6 Readings</a></td> <!-- Readings -->
       <td><a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/lists/tic-tac-toe.topic&course=&novideo&noreading&noassignment">8. Boards</a><br/>
         (due 9/27)</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
