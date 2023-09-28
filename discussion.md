@@ -67,9 +67,17 @@ This page will be updated with discussion worksheets and solutions throughout th
       <td>Discussion 5</td>
       <td>Algorithmic Complexity</td>
       <td><a href="https://docs.google.com/document/d/1aMf_Cdq8euuGD5g-4fRjra3miXztUeGTUAC7jfVOAC4/edit?usp=sharing">worksheet</a></td>
-      <td><a href="https://bit.ly/compsci10">solutions</a></td>
+      <td><a href="https://docs.google.com/document/d/1WrXYcbFeR3_xW7tNvyxotH_DNCpR7PaxwEw187RW8k4/edit?usp=sharing">solutions</a></td>
       <td><a href="https://youtube.com/playlist?list=PLO1S2CinoAzXXhu0GqFhLeVS3bUr7JV8f">recording</a></td>
       <td><a href="https://drive.google.com/file/d/1KixBSrw_eFxW4lDyiaqHt9jHs_UOK9BB/view?usp=sharing">slides</a></td>
+    </tr>
+    <tr>
+      <td>Discussion 6</td>
+      <td>Recursion</td>
+      <td><a href="https://drive.google.com/file/d/18wz_d-cgmWvTIp3o7a9Lb8tvUao2D8Za/view?usp=drive_link">worksheet</a></td>
+      <td><a href="https://bit.ly/compsci10">solutions</a></td>
+      <td><a href="https://bit.ly/compsci10">recording</a></td>
+      <td><a href="https://drive.google.com/file/d/18wz_d-cgmWvTIp3o7a9Lb8tvUao2D8Za/view?usp=sharing">slides</a></td>
     </tr>
   </tbody>
 </table>
