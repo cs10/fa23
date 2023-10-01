@@ -287,7 +287,7 @@
     <tr>
       <td rowspan=5>7</td> <!-- Week Number -->
       <th>Mon 10/2</th> <!-- Date -->
-      <td>11. Recursion III (Count Change)<br/><a href="">(slides)</a></td> <!-- Lecture -->
+      <td>11. Recursion III (Count Change)<br/><a href="https://drive.google.com/file/d/1Ih3RkS9TNE84I7LudfYWWj3qWcERmuLW/view?usp=sharing">(slides)</a><br/><a href="https://drive.google.com/drive/folders/1Igwuk80iJg8v6YgVIyZfvLkQiy2ZkGd2?usp=sharing">(code)</a><br/><a href="https://drive.google.com/drive/folders/1IX8f7l_phxOzVlUP-METrWJCdO7yiokY?usp=sharing">(movies)</a></td> <!-- Lecture -->
       <td><a href="https://cs10.org/fa23/readings/">Week 7 Readings </a></td> <!-- Readings -->
       <td><a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/recur/recursive-reporters-part1.topic&course=&novideo&noreading&noassignment"> 10. Recursive Reporters</a><br/>
         (due 10/9)</td> <!-- Lab -->
@@ -304,7 +304,7 @@
     </tr>
     <tr>
       <th>Wed 10/4 </th> <!-- Date -->
-      <td>12. Guest Lecture: Saving the World with Computing<br/><a href="">(slides)</a></td> <!-- Lecture -->
+      <td>12. Guest Lecture: Saving the World with Computing<br/><a href="https://people.eecs.berkeley.edu/~yelick/">(Professor Kathy Yelick)</a><br/><a href="https://drive.google.com/file/d/1GRoIGdinDl47n1Jx9udT5b-HrKXch0E3/view">(slides)</a></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td>PROJ 3 Work Session<br/> NO new lab</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
