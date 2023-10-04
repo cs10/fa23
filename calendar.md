@@ -324,7 +324,7 @@
       <td></td> <!-- Readings -->
       <td></td> <!-- Lab -->
       <td></td> <!-- Discussion -->
-      <td>Reading Quiz 5 Due</td> <!-- Assignment -->
+      <td>PROJ 4: Explore Post Released<br/>Reading Quiz 5 Due</td> <!-- Assignment -->
     </tr>
     <!-- WEEK EIGHT -->
     <tr>
