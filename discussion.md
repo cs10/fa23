@@ -75,9 +75,17 @@ This page will be updated with discussion worksheets and solutions throughout th
       <td>Discussion 6</td>
       <td>Recursion</td>
       <td><a href="https://docs.google.com/document/d/10tgdMHAQVWbE3uUCUJoCgfG3BwIVb34b2flkSTk92wU/edit?usp=sharing">worksheet</a></td>
-      <td><a href="https://bit.ly/compsci10">solutions</a></td>
+      <td><a href="https://docs.google.com/document/d/1Bc3jSezQeCwmiAMQtg4dBhPB-YwtO4gmsCDRZvizSA4/edit?usp=sharing">solutions</a></td>
       <td><a href="https://youtu.be/WC04d2Oxj2E">recording</a></td>
       <td><a href="https://drive.google.com/file/d/18wz_d-cgmWvTIp3o7a9Lb8tvUao2D8Za/view?usp=sharing">slides</a></td>
+    </tr>
+    <tr>
+      <td>Discussion 7</td>
+      <td>Tree Recursion</td>
+      <td><a href="https://docs.google.com/document/d/1-rlnT6UUdgw6-xAMNmopU5A7WesLM7BqlauQDCIJnsk/edit?usp=sharing">worksheet</a></td>
+      <td><a href="https://bit.ly/compsci10">solutions</a></td>
+      <td><a href="https://www.youtube.com/watch?v=FHMjAeLKYe4&list=PLO1S2CinoAzXNJFaTBtUXOWT5tjZag8me&index=2">recording</a></td>
+      <td><a href="https://drive.google.com/file/d/1GLWqkz5TdHHnaurDmX79XZOP5GuUx2S4/view?usp=sharing">slides</a></td>
     </tr>
   </tbody>
 </table>
