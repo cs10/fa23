@@ -324,7 +324,7 @@
       <td></td> <!-- Readings -->
       <td></td> <!-- Lab -->
       <td></td> <!-- Discussion -->
-      <td>PROJ 4: Explore Post <a href="https://docs.google.com/document/d/11ls_i2ZUZHYHgkSaLXk8GO3yS_3SR6y_wdwPeyix3qE/edit">(Released)</a><br/>Reading Quiz 5 Due</td> <!-- Assignment -->
+      <td><a href="https://docs.google.com/document/d/11ls_i2ZUZHYHgkSaLXk8GO3yS_3SR6y_wdwPeyix3qE/edit"><b>PROJ 4: Explore Post Released</b></a><br/>Reading Quiz 5 Due</td> <!-- Assignment -->
     </tr>
     <!-- WEEK EIGHT -->
     <tr>
