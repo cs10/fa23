@@ -347,7 +347,7 @@
     </tr>
     <tr>
       <th>Wed 10/11 </th> <!-- Date -->
-      <td>14. Programming Paradigms<a href=""><br/>(slides)</a></td> <!-- Lecture -->
+      <td>14. Programming Paradigms<br/><a href="https://drive.google.com/file/d/1JQEQ52QlCgnub-eBJ3SfStz-DUc_nEVp/view?usp=sharing">(slides)</a><br/><a href="https://drive.google.com/drive/folders/1JbCN9Vf74cL5zAvPdewr064ZvltoIA8L?usp=sharing">(code)</a></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td>Midterm Work Session</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
