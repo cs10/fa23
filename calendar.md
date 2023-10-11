@@ -333,7 +333,7 @@
       <td>13. Procedures as Data<br/><a href="https://drive.google.com/file/d/1JE7EsGm1zY0K6V4BlmnCHBdbX9Ewlxa4/view?usp=sharing">(slides)</a><br/><a href="https://drive.google.com/drive/folders/1JC3lWCB0Q5treszw4wAkpiHAeh5s6_H6?usp=sharing">(code)</a></td> <!-- Lecture -->
       <td>NO Readings.</td> <!-- Readings -->
       <td><a href="https://cs10.org/bjc-r/llab/html/topic.html?topic=berkeley_bjc%2Fhofs%2Fhofs-practice.topic&course&novideo&noreading&noassignment">11. Functions as Data, HOFs</a><br/>
-        (due 10/13)</td> <!-- Lab -->
+        (due 10/16)</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
