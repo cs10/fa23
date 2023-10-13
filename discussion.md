@@ -87,6 +87,14 @@ This page will be updated with discussion worksheets and solutions throughout th
       <td><a href="https://www.youtube.com/watch?v=FHMjAeLKYe4&list=PLO1S2CinoAzXNJFaTBtUXOWT5tjZag8me&index=2">recording</a></td>
       <td><a href="https://drive.google.com/file/d/1GLWqkz5TdHHnaurDmX79XZOP5GuUx2S4/view?usp=sharing">slides</a></td>
     </tr>
+    <tr>
+      <td>Discussion 7</td>
+      <td>Tree Recursion</td>
+      <td><a href="https://docs.google.com/document/d/1-rlnT6UUdgw6-xAMNmopU5A7WesLM7BqlauQDCIJnsk/edit?usp=sharing">worksheet</a></td>
+      <td><a href="https://bit.ly/compsci10">solutions</a></td>
+      <td><a href="https://bit.ly/compsci10">recording</a></td>
+      <td>NO Slides</td>
+    </tr>
   </tbody>
 </table>
 
