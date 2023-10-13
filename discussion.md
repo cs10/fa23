@@ -90,7 +90,7 @@ This page will be updated with discussion worksheets and solutions throughout th
     <tr>
       <td>Discussion 8</td>
       <td>Midterm Review</td>
-      <td><a href="https://docs.google.com/document/d/1-rlnT6UUdgw6-xAMNmopU5A7WesLM7BqlauQDCIJnsk/edit?usp=sharing">worksheet</a></td>
+      <td><a href="https://docs.google.com/document/d/1KTdfe-eUs49UgzWi_sW8e3KeQAfIvPZpggAtZQ4o8fU/edit?usp=sharing">worksheet</a></td>
       <td><a href="https://bit.ly/compsci10">solutions</a></td>
       <td><a href="https://bit.ly/compsci10">recording</a></td>
       <td>NO Slides</td>
