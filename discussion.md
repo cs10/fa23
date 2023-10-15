@@ -83,7 +83,7 @@ This page will be updated with discussion worksheets and solutions throughout th
       <td>Discussion 7</td>
       <td>Tree Recursion</td>
       <td><a href="https://docs.google.com/document/d/1-rlnT6UUdgw6-xAMNmopU5A7WesLM7BqlauQDCIJnsk/edit?usp=sharing">worksheet</a></td>
-      <td><a href="https://bit.ly/compsci10">solutions</a></td>
+      <td><a href="https://docs.google.com/document/d/1vbsJAwFBb97qUvSAn3MOXxVQTaq4xJpB8b-JHUEMC4E/edit?usp=sharing">solutions</a></td>
       <td><a href="https://www.youtube.com/watch?v=FHMjAeLKYe4&list=PLO1S2CinoAzXNJFaTBtUXOWT5tjZag8me&index=2">recording</a></td>
       <td><a href="https://drive.google.com/file/d/1GLWqkz5TdHHnaurDmX79XZOP5GuUx2S4/view?usp=sharing">slides</a></td>
     </tr>
@@ -91,8 +91,8 @@ This page will be updated with discussion worksheets and solutions throughout th
       <td>Discussion 8</td>
       <td>Midterm Review</td>
       <td><a href="https://docs.google.com/document/d/1KTdfe-eUs49UgzWi_sW8e3KeQAfIvPZpggAtZQ4o8fU/edit?usp=sharing">worksheet</a></td>
-      <td><a href="https://bit.ly/compsci10">solutions</a></td>
-      <td><a href="https://bit.ly/compsci10">recording</a></td>
+      <td><a href="https://docs.google.com/document/d/1zQoFTKKSPSNVtKFOg0V6oaNdQc9AL2OUHCOFJkEkKzQ/edit?usp=sharing">solutions</a></td>
+      <td>NO recording. See Ed #459</td>
       <td>NO Slides</td>
     </tr>
   </tbody>
