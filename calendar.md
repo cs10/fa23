@@ -374,7 +374,7 @@
     <tr>
       <td rowspan=5>9</td> <!-- Week Number -->
       <th>Mon 10/16</th> <!-- Date -->
-      <td>15. Python I - Intro <a href=""><br/>(slides)</a></td> <!-- Lecture -->
+      <td>15. Python I - Intro <a href="https://drive.google.com/file/d/1K4NlYXd4UBXuVEenvrVlhBu3avCB-nff/view?usp=sharing"><br/>(slides)</a></td> <!-- Lecture -->
       <td><a href="https://cs10.org/fa23/readings/">Week 9 Readings</a></td> <!-- Readings -->
       <td><a href="https://cs10.org/bjc-r/llab/html/topic.html?topic=berkeley_bjc%2Fpython%2Fbesides-blocks-welcome-parsons.topic&course&novideo&noreading&noassignment">12. Welcome to Python</a><br/>
         (due 10/18)</td> <!-- Lab -->
@@ -391,7 +391,7 @@
     </tr>
     <tr>
       <th>Wed 10/18</th> <!-- Date -->
-      <td>16. Python II - Data Types & Structures<br/><a href="">(slides)</a></td> <!-- Lecture -->
+      <td>16. Python II - Data Types & Structures<br/><a href="https://drive.google.com/file/d/1KCXTVfQI9K8n0X-cWipZBxzPIMQMpVL-/view?usp=sharing">(slides)</a></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td><a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/python/besides-blocks-data-struct.topic&course=&novideo&noreading&noassignment">13. Data Structures in Python</a><br/>(due 10/23)</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
