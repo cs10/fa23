@@ -166,7 +166,9 @@ You're also allowed to retroactively obtain extensions without penalty: i.e., yo
 
 ## Lateness Penalties
 
-Any labs or projects that are submitted late will receive half-credit, regardless of how late the submission is. For the final project, late submissions may not be graded since our grading staff has limited availability. If you need an extension, please utilize the extension request forms. If there are extenuating circumstances, please email cs10@.
+Any labs or projects that are submitted late will receive half-credit, regardless of how late the submission is. For the project-4 and the final project, late submissions may not be graded since our grading staff has limited availability. If you need an extension, please utilize the extension request forms. 
+
+If, after exhausting the initial extension, you still need more time — please visit us in Support-OH, wherein we'll help you come up with a plan to catch up! Lateness penalties *only* apply if you *don't* obtain an extension (by filling out the form or visiting Support-OH) *and* turn in work late. 
 
 
 ## Academic Integrity
