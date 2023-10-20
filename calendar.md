@@ -444,7 +444,7 @@
       <td></td> <!-- Readings -->
       <td><a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/python/besides-blocks-text-processing.topic&course=&novideo&noreading&noassignment"> 15. Text Processing in Python</a><br/>(due 10/30)</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
-      <td><a href="https://docs.google.com/document/d/1pJx3BaK6VbGlFtB0yQCAlifpxa5ftz8HQPphCWRUPXM/edit">(FINAL PROJ Proposal RELEASED)</a><br/>
+      <td><a href="">(FINAL PROJ Proposal)</a><br/>
         (due 11/3)</td> <!-- Assignment -->
     </tr>
     <tr>
