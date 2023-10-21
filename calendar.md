@@ -413,7 +413,7 @@
       <td></td> <!-- Discussion -->
       <td>
       Reading Quiz 6 Due <br/>
-      PROJ 4 (POST) Due<br/></td> <!-- Assignment -->
+      </td> <!-- Assignment -->
     </tr>
     <!-- WEEK TEN -->
     <tr>
@@ -424,11 +424,10 @@
       <td><a href="https://cs10.org/bjc-r/cur/programming/python/object-oriented-programming-joshhug/oop_intro.html?topic=berkeley_bjc%2Fpython%2Fbesides-blocks-oop-joshhug-edition.topic&course&novideo&noreading&noassignment">14. OOP in Python</a></td> <!-- Lab -->
       <td></td> <!-- Discussion -->
       <td>
-      release Reading Quiz 7 <br/>
-      (Due 10/27)<br/>
-      PROJ 4 (COMMENTS) Due<br/>
-        <a href="">(PROJ 5: Pyturis released)</a><br/>
-          (due 11/6)<br/></td> <!-- Assignment -->
+      release Reading Quiz 7 (Due 10/27) <br/>
+        PROJ 4 (POST) Due<br/>
+        <a href="">(PROJ 5: Pyturis released)</a>(due 11/6)<br/>
+          </td> <!-- Assignment -->
     </tr>
     <tr>
       <th>Tue 10/24</th> <!-- Date -->
@@ -444,8 +443,8 @@
       <td></td> <!-- Readings -->
       <td><a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/python/besides-blocks-text-processing.topic&course=&novideo&noreading&noassignment"> 15. Text Processing in Python</a><br/>(due 10/30)</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
-      <td><a href="">(FINAL PROJ Proposal)</a><br/>
-        (due 11/3)</td> <!-- Assignment -->
+      <td><a href="">(FINAL PROJ Proposal)</a>(due 11/3)<br/>
+        PROJ 4 (COMMENTS) Due<br/></td> <!-- Assignment -->
     </tr>
     <tr>
       <th>Thur 10/26</th> <!-- Date -->
