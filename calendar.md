@@ -419,12 +419,14 @@
     <tr>
       <td rowspan=5>10</td> <!-- Week Number -->
       <th>Mon 10/23</th> <!-- Date -->
-      <td>17. Python III - OOP <a href=""><br/>(slides)</a></td> <!-- Lecture -->
-      <td><a href="https://cs10.org/fa23/readings/">Week 10 Readings</a></td> <!-- Readings -->
+      <td>17. Python III - OOP<br/> <a href="https://drive.google.com/file/d/1KPuki4BCqR5CxBTVKy5JkAYaQdyVOCq5/view?usp=sharing">(slides)</a>
+      <a href="https://drive.google.com/drive/folders/1KfDh0sh6fgtkH-eraQu2tOcNLBh5ZpEw?usp=sharing">(code)</a>
+      </td> <!-- Lecture -->
+      <td><a href="https://blog.trinket.io/why-python/">Week 10 Readings</a></td> <!-- Readings -->
       <td><a href="https://cs10.org/bjc-r/cur/programming/python/object-oriented-programming-joshhug/oop_intro.html?topic=berkeley_bjc%2Fpython%2Fbesides-blocks-oop-joshhug-edition.topic&course&novideo&noreading&noassignment">14. OOP in Python</a></td> <!-- Lab -->
       <td></td> <!-- Discussion -->
       <td>
-      release Reading Quiz 7 (Due 10/27) <br/>
+      Reading Quiz 7 released (Due 10/27) <br/>
         PROJ 4 (POST) Due<br/>
         <a href="">(PROJ 5: Pyturis released)</a>(due 11/6)<br/>
           </td> <!-- Assignment -->
