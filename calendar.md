@@ -441,7 +441,7 @@
     </tr>
     <tr>
       <th>Wed 10/25</th> <!-- Date -->
-      <td>18. Python IV - HOFs <a href="https://drive.google.com/file/d/1LfEnjDuhj7lE5d9DuFj9JmxmRSdt8jmd/view?usp=drive_link"><br/>(slides)</a></td> <!-- Lecture -->
+      <td>18. Python IV - HOFs <a href="https://drive.google.com/file/d/1LfEnjDuhj7lE5d9DuFj9JmxmRSdt8jmd/view?usp=drive_link"><br/>(slides)</a><a href="https://drive.google.com/drive/folders/1L_2cERCVKlXB5Qh_0qdLbz5U_xuA7hnJ?usp=drive_link">(code)</a></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td><a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/python/besides-blocks-text-processing.topic&course=&novideo&noreading&noassignment"> 15. Text Processing in Python</a><br/>(due 10/30)</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
