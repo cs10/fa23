@@ -100,7 +100,7 @@ This page will be updated with discussion worksheets and solutions throughout th
       <td>Welcome to Python!</td>
       <td><a href="https://docs.google.com/document/d/1VnI5gSkG49T9vR2VCKiaDGFcj_5v0HjUcah-bm5x92E/edit?usp=sharing">worksheet</a></td>
       <td><a href="https:/bit.ly/compsci10">solutions</a></td>
-      <td><a href="https:/bit.ly/compsci10">recording</a></td>
+      <td><a href="https://drive.google.com/file/d/1ka00W-sCg0eZAB8bve0C-CgL2-2sSStH/view">recording</a></td>
       <td>NO Slides</td>
     </tr>
   </tbody>
