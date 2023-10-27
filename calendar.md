@@ -426,7 +426,7 @@
       <td><a href="https://cs10.org/bjc-r/cur/programming/python/object-oriented-programming-joshhug/oop_intro.html?topic=berkeley_bjc%2Fpython%2Fbesides-blocks-oop-joshhug-edition.topic&course&novideo&noreading&noassignment">14. OOP in Python</a></td> <!-- Lab -->
       <td></td> <!-- Discussion -->
       <td>
-      Reading Quiz 7 released (Due 10/27) <br/>
+      <a>href = "https://blog.trinket.io/why-python/"<b>Reading Quiz 7 released (Due 10/27)</b></a><br/>
         PROJ 4 (POST) Due<br/>
         <a href="https://docs.google.com/document/d/1F7aTyPAzyx14un3Aj7uOA4PkexXs1FtmIjRVj_0a06g/edit?usp=sharing"><b>PROJ 5: Pyturis released</b></a>(due 11/6)<br/>
           </td> <!-- Assignment -->
