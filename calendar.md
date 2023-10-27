@@ -471,7 +471,7 @@
     <tr>
       <td rowspan=5>11</td> <!-- Week Number -->
       <th>Mon 10/30</th> <!-- Date -->
-      <td>19. AI<a href=""><br/>(slides)</a></td> <!-- Lecture -->
+      <td>19. Python Practice 🐍<a href=""><br/>(slides)</a></td> <!-- Lecture -->
       <td><a href="https://cs10.org/fa23/readings/">Week 11 Readings</a></td> <!-- Readings -->
       <td><a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/python/data-lab.topic&course=&novideo&noreading&noassignment"> 16. Intro to Data Science (Optional)</a><br/></td> <!-- Lab -->
       <td></td> <!-- Discussion -->
