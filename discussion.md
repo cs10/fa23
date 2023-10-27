@@ -99,7 +99,7 @@ This page will be updated with discussion worksheets and solutions throughout th
       <td>Discussion 9</td>
       <td>Welcome to Python!</td>
       <td><a href="https://docs.google.com/document/d/1VnI5gSkG49T9vR2VCKiaDGFcj_5v0HjUcah-bm5x92E/edit?usp=sharing">worksheet</a></td>
-      <td><a href="https://drive.google.com/drive/folders/1meq0BPUdpS-l-FowV4v2typHblvLDLcV?usp=sharing">solutions</a></td>
+      <td><a href="https://drive.google.com/drive/folders/1meq0BPUdpS-l-FowV4v2typHblvLDLcV?usp=sharing">solutions [& Starter Code!]</a></td>
       <td><a href="https://drive.google.com/file/d/1ka00W-sCg0eZAB8bve0C-CgL2-2sSStH/view">recording</a></td>
       <td>NO Slides</td>
     </tr>
