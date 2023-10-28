@@ -103,7 +103,7 @@ This page will be updated with discussion worksheets and solutions throughout th
       <td><a href="https://drive.google.com/file/d/1ka00W-sCg0eZAB8bve0C-CgL2-2sSStH/view">recording</a></td>
       <td>NO Slides</td>
     </tr>
-    <td>Discussion 9</td>
+    <td>Discussion 10</td>
       <td>Welcome to Python!</td>
       <td><a href="https://docs.google.com/document/d/1lnQwwWwr6ucKYOHBmtKGqcg5hCzw9wqhJy-Zs-FvgkI/edit?usp=sharing">worksheet</a></td>
       <td><a href="https://bit.ly/compsci10">solutions</a></td>
