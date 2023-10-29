@@ -105,7 +105,7 @@ This page will be updated with discussion worksheets and solutions throughout th
     </tr>
     <tr>
     <td>Discussion 10</td>
-      <td>Welcome to Python!</td>
+      <td>Python Data Structues</td>
       <td><a href="https://docs.google.com/document/d/1lnQwwWwr6ucKYOHBmtKGqcg5hCzw9wqhJy-Zs-FvgkI/edit?usp=sharing">worksheet</a></td>
       <td><a href="https://bit.ly/compsci10">solutions</a></td>
       <td><a href="https://drive.google.com/file/d/1FdQWd3Ezkjldv7tLDoygK3ZgfVPg__lU/view">recording</a></td>
