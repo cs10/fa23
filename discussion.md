@@ -109,7 +109,7 @@ This page will be updated with discussion worksheets and solutions throughout th
       <td><a href="https://docs.google.com/document/d/1lnQwwWwr6ucKYOHBmtKGqcg5hCzw9wqhJy-Zs-FvgkI/edit?usp=sharing">worksheet</a></td>
       <td><a href="https://bit.ly/compsci10">solutions</a></td>
       <td><a href="https://drive.google.com/file/d/1FdQWd3Ezkjldv7tLDoygK3ZgfVPg__lU/view">recording</a></td>
-      <td>NO Slides</td>
+      <td><a href="https://drive.google.com/file/d/137_mqwoEGy7ghh8Bg8D_HJGAuE_-zt2F/view?usp=sharing">slides</a></td>
     </tr>
   </tbody>
 </table>
