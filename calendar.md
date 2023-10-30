@@ -498,7 +498,7 @@
       <th>Thur 11/2</th> <!-- Date -->
       <td></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
-      <td>PROJ 5 Work Session</td> <!-- Lab -->
+      <td></td> <!-- Lab -->
       <td><a href="https://cs10.org/fa23/discussion/">11. OOP</a></td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
