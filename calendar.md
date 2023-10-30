@@ -426,7 +426,7 @@
       <td><a href="https://cs10.org/bjc-r/cur/programming/python/object-oriented-programming-joshhug/oop_intro.html?topic=berkeley_bjc%2Fpython%2Fbesides-blocks-oop-joshhug-edition.topic&course&novideo&noreading&noassignment">14. OOP in Python</a></td> <!-- Lab -->
       <td></td> <!-- Discussion -->
       <td>
-      <a>href = "https://blog.trinket.io/why-python/"<b>Reading Quiz 7 released (Due 10/27)</b></a><br/>
+      <a href = "https://blog.trinket.io/why-python/"><b>Reading Quiz 7 released (Due 10/27)</b></a><br/>
         PROJ 4 (POST) Due<br/>
         <a href="https://docs.google.com/document/d/1F7aTyPAzyx14un3Aj7uOA4PkexXs1FtmIjRVj_0a06g/edit?usp=sharing"><b>PROJ 5: Pyturis released</b></a>(due 11/6)<br/>
           </td> <!-- Assignment -->
@@ -464,7 +464,7 @@
       <td></td> <!-- Discussion -->
       <td>
       Reading Quiz 7 Due<br/>
-      <a href="">(FINAL PROJ released)</a><br/>
+      <a href="https://docs.google.com/document/d/1Yl-raRIyRMsdRE6t0U5BnRDrKNJqWZQRkWLDnXmAC2o/edit?usp=sharing">(FINAL PROJ released)</a><br/>
         (due 11/29)</td> <!-- Assignment -->
     </tr>
     <!-- WEEK ELEVEN -->
