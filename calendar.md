@@ -472,7 +472,7 @@
       <td rowspan=5>11</td> <!-- Week Number -->
       <th>Mon 10/30</th> <!-- Date -->
       <td>19. Python Practice 🐍<a href=""><br/>(slides)</a></td> <!-- Lecture -->
-      <td><a href="https://cs10.org/fa23/readings/">Week 11 Readings</a></td> <!-- Readings -->
+      <td><a href="https://techcrunch.com/2019/01/24/starcraft-ii-playing-ai-alphastar-takes-out-pros-undefeated/">Week 11 Readings</a></td> <!-- Readings -->
       <td><a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/python/data-lab.topic&course=&novideo&noreading&noassignment"> 16. Intro to Data Science (Optional)</a><br/></td> <!-- Lab -->
       <td></td> <!-- Discussion -->
       <td>release Reading Quiz 8<br/>
@@ -508,7 +508,7 @@
       <td></td> <!-- Readings -->
       <td></td> <!-- Lab -->
       <td></td> <!-- Discussion -->
-      <td>Reading Quiz 7 Due<br/>
+      <td>Reading Quiz 8 Due<br/>
         FINAL PROJ Proposal Due</td> <!-- Assignment -->
     </tr>
     <!-- WEEK TWELVE -->
