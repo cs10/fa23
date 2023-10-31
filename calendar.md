@@ -488,7 +488,7 @@
     </tr>
     <tr>
       <th>Wed 11/1</th> <!-- Date -->
-      <td>20. Python V - Tree Recursion & Game Theory<br/><a href="">(slides)</a></td> <!-- Lecture -->
+      <td>20. Python V - Tree Recursion & Game Theory<br/><a href="https://drive.google.com/file/d/1LLBP6jdxOPnR3p7QlaukPKSRsCMHfeLI/view?usp=sharing">(slides)</a><a href="https://drive.google.com/drive/folders/1LXuDTevajGQnym7ay6ByO2JvYgpGz5Ca?usp=sharing">(code)</a></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td>Final Project Proposal Meetings<br/>NO new lab.</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
