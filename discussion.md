@@ -111,6 +111,14 @@ This page will be updated with discussion worksheets and solutions throughout th
       <td><a href="https://drive.google.com/file/d/1FdQWd3Ezkjldv7tLDoygK3ZgfVPg__lU/view">recording</a></td>
       <td><a href="https://drive.google.com/file/d/137_mqwoEGy7ghh8Bg8D_HJGAuE_-zt2F/view?usp=sharing">slides</a></td>
     </tr>
+    <tr>
+    <td>Discussion 11</td>
+      <td>OOP in Python</td>
+      <td><a href="https://docs.google.com/document/d/1qcxe5dLRjYrLPn9FP7P68nvEpc_IN6qWsj5ITIr-YAo/edit?usp=sharing">worksheet</a></td>
+      <td><a href="https://bit.ly/compsci10">solutions</a></td>
+      <td><a href="">recording</a></td>
+      <td>Slides TBA</td>
+    </tr>
   </tbody>
 </table>
 
