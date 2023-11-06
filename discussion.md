@@ -107,7 +107,7 @@ This page will be updated with discussion worksheets and solutions throughout th
     <td>Discussion 10</td>
       <td>Python Data Structues</td>
       <td><a href="https://docs.google.com/document/d/1lnQwwWwr6ucKYOHBmtKGqcg5hCzw9wqhJy-Zs-FvgkI/edit?usp=sharing">worksheet</a></td>
-      <td><a href="https://bit.ly/compsci10">solutions</a></td>
+      <td><a href="https://docs.google.com/document/d/1lnQwwWwr6ucKYOHBmtKGqcg5hCzw9wqhJy-Zs-FvgkI/edit?usp=sharing">solutions</a></td>
       <td><a href="https://drive.google.com/file/d/1FdQWd3Ezkjldv7tLDoygK3ZgfVPg__lU/view">recording</a></td>
       <td><a href="https://drive.google.com/file/d/137_mqwoEGy7ghh8Bg8D_HJGAuE_-zt2F/view?usp=sharing">slides</a></td>
     </tr>
@@ -115,7 +115,7 @@ This page will be updated with discussion worksheets and solutions throughout th
     <td>Discussion 11</td>
       <td>OOP in Python</td>
       <td><a href="https://docs.google.com/document/d/1qcxe5dLRjYrLPn9FP7P68nvEpc_IN6qWsj5ITIr-YAo/edit?usp=sharing">worksheet</a></td>
-      <td><a href="https://docs.google.com/document/d/1lnQwwWwr6ucKYOHBmtKGqcg5hCzw9wqhJy-Zs-FvgkI/edit?usp=sharing">solutions</a></td>
+      <td><a href="">solutions</a></td>
       <td><a href="https://drive.google.com/file/d/1JlWopho5nF4njLor_a5cGCrGvUyRQnqj/view">recording</a></td>
       <td><a href="https://drive.google.com/file/d/1XYasKXdK2VI0f6OjlT02Qh0GNB8fdkJt/view?usp=sharing"> Slides-1</a><br/><a href="https://drive.google.com/file/d/1BMOxTK6b2EsR4nCFiMorLrP3jN_0oNWz/view?usp=sharing"> Slides-2</a></td>
     </tr>
