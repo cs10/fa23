@@ -532,7 +532,9 @@
     </tr>
     <tr>
       <th>Wed 11/8</th> <!-- Date -->
-      <td>22. Guest Lecture: Human-computer interaction (HCI)<br/><a href="">(slides)</a></td> <!-- Lecture -->
+      <td>22. Guest Lecture: Human-computer interaction (HCI)<br/>
+      <a href="https://drive.google.com/file/d/1hBAo8mQNB9veJK_zmDccJUfYID9GDevd/view?usp=sharing">(slides)<br/></a>
+      <a href="https://people.eecs.berkeley.edu/~bjoern/">(Professor Björn Hartmann)</a></td><!-- Lecture -->
       <td></td> <!-- Readings -->
       <td><a href="https://cs10.org/bjc-r/llab/html/topic.html?topic=berkeley_bjc%2Fareas%2Fconcurrency.topic&course&novideo&noreading&noassignment">17. Concurrency</a><br/> (due 11/13)</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
