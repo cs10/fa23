@@ -515,7 +515,7 @@
       <td rowspan=5>12</td> <!-- Week Number -->
       <th>Mon 11/6</th> <!-- Date -->
       <td>21. Concurrency<br/><a href="https://drive.google.com/file/d/1MNv_ugRdUxbCCx-bCqYMP4h8DyNb5mxd/view?usp=sharing">(slides)</a></td> <!-- Lecture -->
-      <td><a href="https://cs10.org/fa23/readings/">Week 12 Readings</a></td> <!-- Readings -->
+      <td><a href="https://docs.google.com/document/d/1V_RqyOH3epE5iSkQvRNyANnJKCC0Evf9n8WGiqWy3vI/edit?usp=sharing">Week 12 Readings</a></td> <!-- Readings -->
       <td>Final Project Proposal Meetings<br/>NO new lab.</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
       <td>PROJ 5 Due<br/>
