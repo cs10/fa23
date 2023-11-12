@@ -560,7 +560,7 @@
     <tr>
       <td rowspan=5>13</td> <!-- Week Number -->
       <th>Mon 11/13</th> <!-- Date -->
-      <td>23. Guest Lecture: Limits of Computing<br/><a href = "">(slides)</a></td> <!-- Lecture -->
+      <td>23. Guest Lecture: Generative AI<br/><a href = "https://farid.berkeley.edu/">(slides)</a><br/><a href="">(Professor Hany Farid)</a></td> <!-- Lecture -->
       <td><a href="https://cs10.org/fa23/readings/">Week 13 Readings</a></td> <!-- Readings -->
       <td><a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/libraries/libraries.topic&course=cs10_fa20.html&novideo&noreading&noassignment"> 18. Snap! & Python Libraries </a><br/> (due 11/20)</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
@@ -577,7 +577,7 @@
     </tr>
     <tr>
       <th>Wed 11/15</th> <!-- Date -->
-      <td>24. Guest Lecture: AI Tools<a href = ""><br/>(slides)</a></td> <!-- Lecture -->
+      <td>24. Guest Lecture: Artificial Intelligence<a href = ""><br/>(slides)</a><br/><a href="https://www.ezinnenwa.com/">(Ezinne Nwankwo)</a></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td>Catchup Work Session</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
