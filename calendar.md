@@ -604,7 +604,7 @@
       <td rowspan=5>14</td> <!-- Week Number -->
       <th>Mon 11/20</th> <!-- Date -->
       <td>25. Alumni Panel<a href = ""><br/>(slides)</a></td> <!-- Lecture -->
-      <td><a href="https://cs10.org/fa23/readings/">Week 14 Readings (optional)</a></td> <!-- Readings -->
+      <td>No Reading Quiz</td> <!-- Readings -->
       <td></td> <!-- Lab -->
       <td></td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
@@ -642,7 +642,7 @@
       <td></td> <!-- Readings -->
       <td></td> <!-- Lab -->
       <td></td> <!-- Discussion -->
-      <td>Reading Quiz 11 Due</td> <!-- Assignment -->
+      <td></td> <!-- Assignment -->
     </tr>
     <!-- WEEK FIFTEEN -->
     <tr>
@@ -652,8 +652,7 @@
       <td></td> <!-- Readings -->
       <td>Final Project Work-Session <br/>NO new lab.</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
-      <td>release Reading Quiz 11<br/>
-        (Due 12/01)</td> <!-- Assignment -->
+      <td>No Reading Quiz</td> <!-- Assignment -->
     </tr>
     <tr>
       <th>Tue 11/28</th> <!-- Date -->
@@ -685,7 +684,7 @@
       <td></td> <!-- Readings -->
       <td></td> <!-- Lab -->
       <td></td> <!-- Discussion -->
-      <td>Reading Quiz 11 Due<br/>
+      <td><br/>
       <b>Postterm RELEASED</b></td> <!-- Assignment -->
     </tr>
     <!-- WEEK SIXTEEN - RRR WEEK-->
@@ -702,7 +701,7 @@
     </tr>
     <tr>
       <th>Tue 12/5</th> <!-- Date -->
-      <td></td> <!-- Lecture -->
+      <td>Postterm Review</td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td></td> <!-- Lab -->
       <td></td><!-- Discussion -->
@@ -716,7 +715,7 @@
       <td>NO CLASS<br/>
         (RRR Week)</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
-      <td></td> <!-- Assignment -->
+      <td>Postterm Retake-1 Released</td> <!-- Assignment -->
     </tr>
     <tr>
       <th>Thur 12/7</th> <!-- Date -->
@@ -725,27 +724,26 @@
       <td></td> <!-- Lab -->
       <td>NO CLASS<br/>
         (RRR Week)</td> <!-- Discussion -->
-      <td></td> <!-- Assignment -->
+      <td>Postterm Retake-1 DUE</td> <!-- Assignment -->
     </tr>
     <tr>
       <th>Fri 12/8</th> <!-- Date -->
-      <td></td> <!-- Lecture -->
+      <td>Postterm Retake-1 Review</td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td></td> <!-- Lab -->
       <td></td> <!-- Discussion -->
-      <td></td> <!-- Assignment -->
+      <td>Postterm Retake-2 Released, Due SUN</td> <!-- Assignment -->
     </tr>
     <!-- WEEK SEVENTEEN - FINALS WEEK -->
     <tr>
       <td rowspan=5>17</td>
       <th>Mon 12/11</th> <!-- Date -->
-      <td>NO CLASS<br/>
-        (Finals Week)</td> <!-- Lecture -->
+      <td>Postterm Retake-2 Review</td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td>NO CLASS<br/>
         (Finals Week)</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
-      <td></td> <!-- Assignment -->
+      <td>Postterm Retake-3 Released, due MON 12/18</td> <!-- Assignment -->
     </tr>
     <tr>
       <th>Tue 12/12</th> <!-- Date -->
