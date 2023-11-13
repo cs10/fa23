@@ -125,7 +125,7 @@ This page will be updated with discussion worksheets and solutions throughout th
       <td><a href="https://docs.google.com/document/d/1uoCxBYcpkIrmfufSwdlLx1z21oJu0vD7ZmckENWsg0k/edit?usp=sharing">worksheet</a></td>
       <td><a href="https://bit.ly/compsci10">solutions</a></td>
       <td><a href="https://drive.google.com/file/d/1caTDl_71y4-z3Pxf-ksU8lz2F8FC2GRI/view?usp=sharing">recording</a></td>
-      <td><a href=""> Slides-1</a><br/><a href="https://drive.google.com/file/d/1BMOxTK6b2EsR4nCFiMorLrP3jN_0oNWz/view?usp=sharing"> Slides-2</a></td>
+      <td><a href=""> Slides</a><br/><a href="https://drive.google.com/file/d/1UBNH5vAP7WH1RgQJCdNV6fTpvQEotokL/view?usp=sharing"></td>
     </tr>
   </tbody>
 </table>
