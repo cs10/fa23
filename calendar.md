@@ -587,7 +587,7 @@
       <th>Thur 11/16</th> <!-- Date -->
       <td></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
-      <td>Catchup Work Session</td> <!-- Lab -->
+      <td></td> <!-- Lab -->
       <td><a href="https://cs10.org/fa23/discussion/">13. Social Implications</a></td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
