@@ -577,7 +577,7 @@
     </tr>
     <tr>
       <th>Wed 11/15</th> <!-- Date -->
-      <td>24. Guest Lecture: Artificial Intelligence<a href = ""><br/>(slides)</a><br/><a href="https://www.ezinnenwa.com/">(Ezinne Nwankwo)</a></td> <!-- Lecture -->
+      <td>24. Guest Lecture: Artificial Intelligence<a href = "https://docs.google.com/presentation/d/1JiQEpmHBf-POcfnpGeLai86LD2pn0ECq8gO0Y5VvqIM/edit?usp=sharing"><br/>(slides)</a><br/><a href="https://www.ezinnenwa.com/">(Ezinne Nwankwo)</a></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td><a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/libraries/libraries.topic&course=cs10_fa20.html&novideo&noreading&noassignment"> 18. Snap! & Python Libraries </a><br/> (due 11/20)</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
