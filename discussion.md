@@ -132,7 +132,7 @@ This page will be updated with discussion Worksheets and Solutions throughout th
       <td>Social Implications | Python HOFs and Tree-Recursion Contd.</td>
       <td><a href="https://docs.google.com/document/d/1yE0pWDKPRXptUTteqb79z6qMKBtsKd_DseOTZ5as_A0/edit?usp=sharing">Worksheet</a></td>
       <td><a href="https://drive.google.com/drive/folders/1nbB_DDTJbtfEATqI2zIRYeLfOvfjNFaT?usp=sharing">Solutions</a><br/></td>
-      <td><NO Recording</td>
+      <td>NO Recording</td>
       <td>NO Slides</td>
     </tr>
   </tbody>
