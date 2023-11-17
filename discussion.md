@@ -127,11 +127,12 @@ This page will be updated with discussion Worksheets and Solutions throughout th
       <td><a href="https://drive.google.com/file/d/1caTDl_71y4-z3Pxf-ksU8lz2F8FC2GRI/view?usp=sharing">Recording</a></td>
       <td><a href="https://drive.google.com/file/d/1UBNH5vAP7WH1RgQJCdNV6fTpvQEotokL/view?usp=sharing">Slides</a></td>
     </tr>
+    <tr>
     <td>Discussion 13</td>
       <td>Social Implications | Python HOFs and Tree-Recursion Contd.</td>
       <td><a href="https://docs.google.com/document/d/1yE0pWDKPRXptUTteqb79z6qMKBtsKd_DseOTZ5as_A0/edit?usp=sharing">Worksheet</a></td>
-      <td><a href="https://bit.ly/compsci10">Solutions</a></td>
-      <td><a href="">Recording</a></td>
+      <td><a href="https://drive.google.com/drive/folders/1nbB_DDTJbtfEATqI2zIRYeLfOvfjNFaT?usp=sharing">Solutions</a><br/></td>
+      <td><NO Recording</td>
       <td>NO Slides</td>
     </tr>
   </tbody>
