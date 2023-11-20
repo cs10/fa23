@@ -603,7 +603,7 @@
     <tr>
       <td rowspan=5>14</td> <!-- Week Number -->
       <th>Mon 11/20</th> <!-- Date -->
-      <td>25. Alumni Panel<a href = ""><br/>(slides)</a></td> <!-- Lecture -->
+      <td>25. Alumni Panel<a href = "https://docs.google.com/presentation/d/15nNo4At3c2TDcMgUaISs4CUMqyAPoyje5yiGxBdAmnM/edit?usp=sharing"><br/>(slides)</a></td> <!-- Lecture -->
       <td>No Reading Quiz</td> <!-- Readings -->
       <td></td> <!-- Lab -->
       <td></td> <!-- Discussion -->
