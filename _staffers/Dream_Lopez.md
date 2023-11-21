@@ -5,4 +5,4 @@ email: dreamlopez@
 website: 
 photo: Dream_Lopez.jpg
 ---
-Hi! I'm a recent graduate who graduated from UC Berkeley with a degree in CS(go bears!). This will be my fourth time AIing for CS10 :) I started college with no CS experience, but CS10 motivated me to pursue CS as a major. I hope you enjoy CS10 as much as I did, and I will try my best to be the best motivator. Feel free to reach out to me if you have any questions, concerns, or if you want to chat with me in general!
+Hello everyone!! I’m a third year majoring in Data Science and Public Health. I took CS10 my first semester at Berkeley and it really helped my build confidence in my coding abilities! In my free time I love to read, hike, watch movies, find cute coffee shops, and bake. I look forward to meeting everyone and help you fall in love with CS ❤️
