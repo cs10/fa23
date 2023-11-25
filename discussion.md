@@ -123,7 +123,7 @@ This page will be updated with discussion Worksheets and Solutions throughout th
     <td>Discussion 12</td>
       <td>Python HOFs, Lambda Expressions, Tree Recursion</td>
       <td><a href="https://docs.google.com/document/d/1uoCxBYcpkIrmfufSwdlLx1z21oJu0vD7ZmckENWsg0k/edit?usp=sharing">Worksheet</a></td>
-      <td><a href="https://bit.ly/compsci10">Solutions</a></td>
+      <td><a href="https://docs.google.com/document/d/1c6WiM4rl4pNmO2O5pZUrXNBCrJ7yZMyjrTJr5Dp5gN4/edit?usp=sharing">Solutions</a></td>
       <td><a href="https://drive.google.com/file/d/1caTDl_71y4-z3Pxf-ksU8lz2F8FC2GRI/view?usp=sharing">Recording</a></td>
       <td><a href="https://drive.google.com/file/d/1UBNH5vAP7WH1RgQJCdNV6fTpvQEotokL/view?usp=sharing">Slides</a></td>
     </tr>
