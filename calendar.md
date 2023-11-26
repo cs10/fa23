@@ -648,7 +648,7 @@
     <tr>
       <td rowspan=5>15</td> <!-- Week Number -->
       <th>Mon 11/27</th> <!-- Date -->
-      <td>26. Social Implications<br/><a href = "">(slides)</a></td> <!-- Lecture -->
+      <td>26. Guest Lecture: Limits of Computing<br/>(NO slides)<br/><a href="https://people.eecs.berkeley.edu/~minilek/">(Professor Jelani Nelson)</a></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td>Final Project Work-Session <br/>NO new lab.</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
