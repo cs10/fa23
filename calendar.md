@@ -675,7 +675,7 @@
       <td></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td></td> <!-- Lab -->
-      <td><a href="https://cs10.org/fa23/discussion/">15. Postterm Review & Farewell</a></td> <!-- Discussion -->
+      <td><a href="https://cs10.org/fa23/discussion/">15. Postterm Preparation Session & Farewell</a></td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
     <tr>
@@ -685,7 +685,7 @@
       <td></td> <!-- Lab -->
       <td></td> <!-- Discussion -->
       <td><br/>
-      <b>Postterm RELEASED</b></td> <!-- Assignment -->
+      <b>Postterm RELEASED at 2359hrs.</b></td> <!-- Assignment -->
     </tr>
     <!-- WEEK SIXTEEN - RRR WEEK-->
     <tr>
@@ -697,15 +697,15 @@
       <td>NO CLASS<br/>
         (RRR Week)</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
-      <td><b>Postterm DUE</b></td> <!-- Assignment -->
+      <td><b>Postterm DUE at 2359hrs.</b></td> <!-- Assignment -->
     </tr>
     <tr>
       <th>Tue 12/5</th> <!-- Date -->
-      <td>Postterm Review</td> <!-- Lecture -->
+      <td>Postterm Exam Reviewed</td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td></td> <!-- Lab -->
       <td></td><!-- Discussion -->
-      <td></td> <!-- Assignment -->
+      <td>Postterm Retake-1 Released at 2359hrs.</td> <!-- Assignment -->
     </tr>
     <tr>
       <th>Wed 12/6</th> <!-- Date -->
@@ -715,7 +715,7 @@
       <td>NO CLASS<br/>
         (RRR Week)</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
-      <td>Postterm Retake-1 Released</td> <!-- Assignment -->
+      <td></td> <!-- Assignment -->
     </tr>
     <tr>
       <th>Thur 12/7</th> <!-- Date -->
@@ -724,26 +724,26 @@
       <td></td> <!-- Lab -->
       <td>NO CLASS<br/>
         (RRR Week)</td> <!-- Discussion -->
-      <td>Postterm Retake-1 DUE</td> <!-- Assignment -->
+      <td>Postterm Retake-1 DUE at 2359hrs.</td> <!-- Assignment -->
     </tr>
     <tr>
       <th>Fri 12/8</th> <!-- Date -->
-      <td>Postterm Retake-1 Review</td> <!-- Lecture -->
+      <td>Postterm Retake-1 Reviewed</td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td></td> <!-- Lab -->
       <td></td> <!-- Discussion -->
-      <td>Postterm Retake-2 Released, Due SUN</td> <!-- Assignment -->
+      <td>Postterm Retake-2 Released at 2359hrs, Due SUN 12/10 at 2359hrs.</td> <!-- Assignment -->
     </tr>
     <!-- WEEK SEVENTEEN - FINALS WEEK -->
     <tr>
       <td rowspan=5>17</td>
       <th>Mon 12/11</th> <!-- Date -->
-      <td>Postterm Retake-2 Review</td> <!-- Lecture -->
+      <td>Postterm Retake-2 Reviewed</td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td>NO CLASS<br/>
         (Finals Week)</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
-      <td>Postterm Retake-3 Released, due MON 12/18</td> <!-- Assignment -->
+      <td>Postterm Retake-3 Released at 2359hrs, due MON 12/18 at 2359hrs.</td> <!-- Assignment -->
     </tr>
     <tr>
       <th>Tue 12/12</th> <!-- Date -->
