@@ -701,7 +701,7 @@
     </tr>
     <tr>
       <th>Tue 12/5</th> <!-- Date -->
-      <td>Postterm Exam Reviewed</td> <!-- Lecture -->
+      <td>Postterm Exam Reviewed 2000-2200hrs @ Woz.</td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td></td> <!-- Lab -->
       <td></td><!-- Discussion -->
@@ -728,7 +728,7 @@
     </tr>
     <tr>
       <th>Fri 12/8</th> <!-- Date -->
-      <td>Postterm Retake-1 Reviewed</td> <!-- Lecture -->
+      <td>Postterm Retake-1 Reviewed 2000-2200hrs @ Soda-306.</td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td></td> <!-- Lab -->
       <td></td> <!-- Discussion -->
@@ -738,7 +738,7 @@
     <tr>
       <td rowspan=5>17</td>
       <th>Mon 12/11</th> <!-- Date -->
-      <td>Postterm Retake-2 Reviewed</td> <!-- Lecture -->
+      <td>Postterm Retake-2 Reviewed 1500-1700hrs @ Woz.</td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td>NO CLASS<br/>
         (Finals Week)</td> <!-- Lab -->
