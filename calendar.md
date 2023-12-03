@@ -664,7 +664,7 @@
     </tr>
     <tr>
       <th>Wed 11/29</th> <!-- Date -->
-      <td>27. Conclusion and Farewell<br/><a href="https://drive.google.com/file/d/1TwjXZ3BYxzJd0-8e4ASUuzcDpa7nZoLV/view?usp=sharing">(slides)</a></td> <!-- Lecture -->
+      <td>27. Conclusion and Farewell<br/><a href="https://drive.google.com/file/d/1i8qt0fTngSBbY77RBXFkGBIokTq8gmL9/view?usp=sharing">(slides)</a></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td>Final Project Work-Session <br/>NO new lab.</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
