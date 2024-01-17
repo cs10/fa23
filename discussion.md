@@ -19,7 +19,7 @@ This page will be updated with discussion Worksheets and Solutions throughout th
   }
 </style>
 
-<table>
+<!-- <table>
   <thead>
     <tr>
       <th>Discussion</th>
@@ -146,6 +146,7 @@ This page will be updated with discussion Worksheets and Solutions throughout th
     </tr>
   </tbody>
 </table>
+-->
 
 <!--**Discussion 2**{: .label .label-discussion } Lists & HOFs, Iteration, Scoping, Domain & Range | [Worksheet](https://drive.google.com/file/d/1eT15LJH38UGfYHR3pLueRlvwMovtyUE8/view?usp=sharing) | [Solutions](https://drive.google.com/file/d/1sVdinV45MT2GoISk8BkJGd8C_BZE-LO4/view?usp=sharing) | [Recording](https://drive.google.com/file/d/1XGcPW_Wa-YFVxm0Gp31w6LDOKaCIQN6q/view?usp=sharing)
 
